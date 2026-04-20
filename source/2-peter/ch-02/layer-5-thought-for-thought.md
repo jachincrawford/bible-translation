@@ -1,0 +1,238 @@
+# Section 5 — Thought-for-Thought
+## 2 Peter, Chapter 2
+
+**Role:** Thought-for-thought translation — NIV/CSB tradition
+**Source:** Section 4 (Phrase-for-Phrase) + Section 1 (Greek)
+**Generated:** 2026-03-20
+
+---
+
+> **Integrity Rule:** Natural English expression. No doctrinal insertions. Preserve theological precision.
+
+---
+
+**v.1**
+There were also false prophets among God's people in the past, and in the same way there will be false teachers among you. They will secretly introduce destructive heresies, even denying the Master who bought them — and so they will bring swift destruction on themselves.
+
+*Rendering Notes (S4 → S5):*
+- [↔] "false prophets also arose among the people" → "There were also false prophets among God's people in the past" — fronted for narrative clarity; "God's people" makes the referent explicit for readers without OT background
+- [↔] Single complex sentence broken into two; the em-dash before "and so they will bring" preserves the causal link while easing the English load
+- [↔] "Master who bought them" retained as in S4 — δεσπότης rendered relationally as ownership, not generic "Lord"
+
+---
+
+**v.2**
+Many people will follow them into their shameless ways, and because of them the way of truth will be brought into disrepute.
+
+*Rendering Notes (S4 → S5):*
+- [↔] "licentious ways" → "shameless ways" — more immediately transparent to a reader without theological vocabulary; captures the moral brazenness of ἀσελγείαις
+- [↔] "blasphemed" → "brought into disrepute" — "blasphemed" requires theological context; "brought into disrepute" conveys the public scandal to a general reader
+- [↔] "the way of truth" retained as definite singular — the double article is preserved in sense; "the way of truth" remains the fixed, singular path, not one option among many
+
+---
+
+**v.3**
+In their greed they will exploit you with stories they have made up. But the judgment hanging over them from long ago has not been idle, and their destruction has not been sleeping.
+
+*Rendering Notes (S4 → S5):*
+- [↔] "fabricated words" → "stories they have made up" — follows NIV's rendering of πλαστοῖς λόγοις; more idiomatic and immediately comprehensible than "fabricated words"
+- [↔] "their judgment, long operative, does not linger" → "the judgment hanging over them from long ago has not been idle" — the personification of the standing verdict is preserved but the syntax is reordered for natural English; "hanging over them" makes the legal image concrete
+- [↔] "does not slumber" → "has not been sleeping" — the anthropomorphism is kept; "sleeping" is slightly more natural in English than "slumber" while retaining the vivid image
+
+---
+
+**v.4**
+For if God did not spare angels when they sinned, but cast them into hell, confining them in dark pits to be held for judgment — [↔ Tartarus]
+
+*Rendering Notes (S4 → S5):*
+- [↔] "cast into Tartarus" → "cast them into hell" — S4 flags this as an INTERP-RISK but the rendering decision for S5 follows NIV; "hell" is chosen for intelligibility to a contemporary reader with no classical background; the cosmological specificity of ταρταρόω is noted but not rendered [↔ from S4 which kept Tartarus]
+- [↔] "pits of gloomy darkness" → "dark pits" — the ζόφου nuance (poetic/Homeric darkness) is condensed for readability; "gloomy" is absorbed into the overall image
+- [↔] Verse-closing dash retained to signal the open conditional chain running through v.8
+
+---
+
+**v.5**
+if he did not spare the ancient world when he brought the flood on its ungodly people, but protected Noah, one of eight survivors, a preacher of righteousness — [↔ herald]
+
+*Rendering Notes (S4 → S5):*
+- [↔] "herald of righteousness" → "preacher of righteousness" — follows NIV; κήρυκα carries the force of a public herald/proclaimer, but "preacher" is the functional contemporary equivalent for an English reader; the shift from the more precise "herald" is noted [↔ from S4]
+- [↔] "as one of eight" → "one of eight survivors" — "survivors" added to clarify the numeral for readers unfamiliar with the flood narrative; does not add theology, only narrative clarity
+- [↔] "a world of ungodly people" → "its ungodly people" — the genitive of characterization is preserved in sense; "its" connects back to "the ancient world" for smoother syntax
+
+---
+
+**v.6**
+if he condemned the cities of Sodom and Gomorrah by burning them to ashes, and made them an example of what will happen to the ungodly —
+
+*Rendering Notes (S4 → S5):*
+- [↔] "reducing them to ashes" → "burning them to ashes" — τεφρόω is the hapax for "reduce to ash"; "burning them to ashes" is more immediately vivid and natural in English; the catastrophic finality is preserved
+- [↔] "an example of what is coming for the ungodly" → "an example of what will happen to the ungodly" — equivalent in sense; "will happen" is slightly more natural English for the proleptic force
+- [↔] "to destruction" (καταστροφῇ) absorbed into the participial phrase — the "catastrophe" etymology is not available to a general reader; the act of burning captures the manner of condemnation
+
+---
+
+**v.7**
+and if he rescued Lot, a righteous man who was distressed by the depraved conduct of the lawless —
+
+*Rendering Notes (S4 → S5):*
+- [↔] "oppressed" → "distressed" — καταπονούμενον carries sustained, wearing-down pressure; "distressed" is slightly more natural English for inner suffering caused by external wickedness; "oppressed" (S4) is also valid
+- [↔] "sensual conduct of unprincipled men" → "depraved conduct of the lawless" — "depraved" is more immediately clear to a general reader than "sensual" for the ἀσέλγεια register; "the lawless" renders ἀθέσμων directly
+- [↔] "righteous Lot" → "Lot, a righteous man" — the attributive adjective is moved to an appositive for more natural English word order
+
+---
+
+**v.8**
+(For that righteous man, living among them day after day, was tormented in his righteous soul by the lawless deeds he saw and heard.)
+
+*Rendering Notes (S4 → S5):*
+- [↔] "by what that righteous man saw and heard as he dwelt among them" → "living among them day after day, was tormented in his righteous soul by the lawless deeds he saw and heard" — restructured so "day after day" stays in its emphatic position; participial phrase fronted for natural English rhythm
+- [↔] "his righteous soul was tormented by their lawless deeds" → "tormented in his righteous soul by the lawless deeds he saw and heard" — "in his righteous soul" specifies the seat of the torment without adding theology; "he saw and heard" absorbs the βλέμματι καὶ ἀκοῇ instruments into a relative clause for readability
+- [↔] "day after day" retained — the Greek idiom ἡμέραν ἐξ ἡμέρας has an exact English equivalent and is kept
+
+---
+
+**v.9**
+— then the Lord knows how to rescue the godly from trials, and to hold the unrighteous under punishment until the day of judgment.
+
+*Rendering Notes (S4 → S5):*
+- [↔] Opening em-dash added — marks the close of the long conditional chain (vv.4–8) and signals the apodosis; "then" makes the logical conclusion explicit for a reader who may have lost the thread across five verses
+- [↔] "from trial" → "from trials" — the plural is slightly more natural in English and captures the iterative nature of πειρασμός without changing the sense
+- [↔] "under punishment for the day of judgment" → "under punishment until the day of judgment" — "until" clarifies the temporal relationship more naturally than "for"; the present passive force of κολαζομένους (being punished now, not merely awaiting) is preserved in "under punishment"
+
+---
+
+**v.10**
+This is especially true for those who follow the corrupt desire of the flesh and despise authority. Bold and arrogant, they are not afraid to heap abuse on celestial beings, [↔ angelic majesties]
+
+*Rendering Notes (S4 → S5):*
+- [↔] "angelic majesties" → "celestial beings" — follows NIV's rendering of δόξας; "celestial beings" is more immediately accessible to a general reader than "angelic majesties" [↔ from S4]; the interpretive uncertainty about the referent remains, but "celestial beings" covers the range without over-determining it
+- [↔] "Presumptuous, self-willed" → "Bold and arrogant" — τολμηταί / αὐθάδεις rendered with more accessible synonyms; "bold" and "arrogant" are immediately clear without losing the moral force of transgressing proper limits
+- [↔] "do not tremble when they blaspheme" → "are not afraid to heap abuse on" — the idiom of fearless blasphemy is rendered with a natural English equivalent; "heap abuse on" captures the continuous, deliberate nature of the blaspheming
+
+---
+
+**v.11**
+yet even angels, although they are greater in strength and power, do not bring slanderous accusations against such beings before the Lord.
+
+*Rendering Notes (S4 → S5):*
+- [↔] "whereas angels" → "yet even angels" — "yet even" sharpens the a fortiori contrast more naturally in English than "whereas"
+- [↔] "greater in might and power" → "greater in strength and power" — "strength" is more natural than "might" for a contemporary reader; the pair ἰσχύϊ καὶ δυνάμει is preserved
+- [↔] "blasphemous judgment against them before the Lord" → "slanderous accusations against such beings before the Lord" — "slanderous accusations" is slightly more natural English for a blasphemous legal charge; "such beings" picks up "celestial beings" from v.10 to make the referent clear
+
+---
+
+**v.12**
+These people are like unreasoning animals, creatures of instinct, born only to be caught and destroyed. They blaspheme about things they do not understand, and like those animals they will perish in their destruction.
+
+*Rendering Notes (S4 → S5):*
+- [↔] "irrational animals — creatures of instinct, born to be caught and destroyed — blaspheming in matters of which they are ignorant, will in their destruction also be destroyed" → broken into two sentences for readability while preserving the φθορά triple wordplay in "destroyed…perish in their destruction"
+- [↔] "born only to be caught and destroyed" — "only" added to sharpen the irony; they have no higher purpose; follows NIV-style
+- [↔] "blaspheming in matters of which they are ignorant" → "They blaspheme about things they do not understand" — more natural English syntax; the irony (teachers who don't know what they're talking about) is preserved
+
+---
+
+**v.13**
+They will be paid back with harm for the harm they have done. Their idea of pleasure is to carouse in broad daylight. They are blots and blemishes, reveling in their pleasures while they feast with you.
+
+*Rendering Notes (S4 → S5):*
+- [↔] "suffering wrong as the wage for wrongdoing" → "They will be paid back with harm for the harm they have done" — the ἀδικία wordplay is preserved in sense ("harm…harm"); "paid back" makes the retributive logic immediately clear; "wage" (S4) is more literal but "paid back" is more natural
+- [↔] "their idea of pleasure is to carouse in broad daylight" — follows the key rendering decision; the brazenness of daytime carousing (inverting normal social order) is foregrounded; more vivid than S4's "they count it a pleasure to revel"
+- [↔] "stains and blemishes" → "blots and blemishes" — "blots" is slightly more vivid and alliterative; σπίλοι = stains/blots; both are accurate
+
+---
+
+**v.14**
+With eyes full of adultery, they never stop sinning. They seduce unstable people. They are experts in greed — a curse on their children!
+
+*Rendering Notes (S4 → S5):*
+- [↔] "never ceasing from sin" → "they never stop sinning" — ἀκατάπαυστος rendered with natural English idiom; "never stop sinning" is more direct than "never ceasing from sin"
+- [↔] "enticing unstable souls" → "They seduce unstable people" — "seduce" sharpens the predatory connotation of δελεάζοντες; "people" is more natural than "souls" for a contemporary audience without changing the scope
+- [↔] "a heart trained in greed — accursed children" → "experts in greed — a curse on their children" — the athletic-training metaphor is absorbed into "experts" (S4's "trained in greed" is slightly more literal but less natural); the verdict "a curse on their children" retains the Semitic genitive force as a ringing condemnation
+
+---
+
+**v.15**
+They have left the straight way and wandered off to follow the way of Balaam son of Beor, who loved the wages he got for doing wrong.
+
+*Rendering Notes (S4 → S5):*
+- [↔] "forsaking the right way, they have gone astray" → "They have left the straight way and wandered off" — "straight way" is retained (εὐθεῖαν ὁδόν = straight/right); "wandered off" renders the going-astray more vividly than "gone astray"
+- [↔] "the wages of unrighteousness" → "the wages he got for doing wrong" — "doing wrong" is more immediately clear than "unrighteousness" for a general reader; the mercenary prophet archetype is preserved
+- [↔] "having followed the way of Balaam" → "to follow the way of Balaam" — restructured as an infinitive complement for smoother English; the verbal link to v.2 (ἐξακολουθήσαντες) is preserved in sense
+
+---
+
+**v.16**
+But he was rebuked for his wrongdoing: a donkey — an animal without speech — spoke with a human voice and restrained the prophet's madness.
+
+*Rendering Notes (S4 → S5):*
+- [↔] "speechless donkey" → "a donkey — an animal without speech" — the rhetorical inversion is made more explicit; the em-dash pause mimics the double-take of the moment before the animal speaks
+- [↔] "a speechless donkey, speaking with a human voice, restrained the madness of the prophet" → "spoke with a human voice and restrained the prophet's madness" — restructured to put the speaking action first, then the restraining, following the narrative sequence more naturally
+- [↔] "his own transgression" → "his wrongdoing" — ἰδίας παρανομίας rendered more simply; "his own" (emphatic ἴδιος) is absorbed by the possessive "his"; "wrongdoing" is clearer than "transgression" for a general reader
+
+---
+
+**v.17**
+These people are waterless springs and mists blown along by a storm. The blackest darkness has been reserved for them.
+
+*Rendering Notes (S4 → S5):*
+- [↔] "black darkness" → "the blackest darkness" — ζόφος τοῦ σκότους as specified in the key rendering decisions; "blackest" captures the double-darkness intensifier (ζόφος + σκότος) as a single heightened English superlative more vividly than "black darkness"
+- [↔] One sentence → two sentences — the double metaphor (springs, mists) and the verdict (darkness reserved) are separated to give each its full weight
+- [↔] "mists driven by a storm" → "mists blown along by a storm" — "blown along" is slightly more vivid; both capture the directionless, insubstantial character of ὁμίχλαι ὑπὸ λαίλαπος ἐλαυνόμεναι
+
+---
+
+**v.18**
+With their bombastic, empty talk they appeal to the corrupt desires of sinful human nature in order to entice people who are just beginning to escape from those who live in error.
+
+*Rendering Notes (S4 → S5):*
+- [↔] "loud boasts of vanity" → "bombastic, empty talk" — ὑπέρογκα ματαιότητος rendered more vividly; "bombastic" captures ὑπέρογκα (swollen/inflated) and "empty talk" renders ματαιότητος (futility/vanity) — the pair communicates the inflation-without-substance
+- [↔] "fleshly passions and sensuality" → "the corrupt desires of sinful human nature" — the σάρξ register is rendered with NIV-style phrasing; "sinful human nature" is the standard NIV rendering of σάρξ in this moral sense and will be familiar in register
+- [↔] "barely escaping from those who live in error" → "people who are just beginning to escape from those who live in error" — "just beginning to escape" is slightly fuller than "barely escaping" but conveys the same vulnerability; the predatory targeting of new converts is preserved
+
+---
+
+**v.19**
+They promise them freedom, while they themselves are slaves of corruption — for people are slaves to whatever has mastered them.
+
+*Rendering Notes (S4 → S5):*
+- [↔] "slaves of corruption" retained — φθορᾶς rendered precisely; "corruption" echoes 1:4 (escape from the corruption of the world) and the irony of the promise vs. the reality is thus sharpened
+- [↔] "for by what a man is overcome, by this he is enslaved" → "for people are slaves to whatever has mastered them" — the epigrammatic force is smoothed into natural English while preserving the epigram's logic; "has mastered them" captures the perfect-passive force (settled state of defeat) without the archaic feel of "overcome/enslaved"
+- [↔] "they themselves are slaves" — the emphatic αὐτοί is preserved by the pronoun "themselves"; the contrast between the freedom-promisers and their own slavery is kept
+
+---
+
+**v.20**
+For if people have escaped the corruption of the world by knowing our Lord and Savior Jesus Christ, and then are again entangled in it and overcome, they are worse off at the end than they were at the beginning.
+
+*Rendering Notes (S4 → S5):*
+- [↔] "the defilements of the world through the knowledge" → "the corruption of the world by knowing" — "corruption" echoes 1:4 and v.19 for coherence; "by knowing" renders ἐπιγνώσει as a means naturally; "the defilements" (S4) is more literal but less idiomatic
+- [↔] "the last state has become worse for them than the first" → "they are worse off at the end than they were at the beginning" — "worse off" is the natural English idiom for the worsened condition; cf. Matt 12:45; the escalating judgment on informed apostasy is preserved without technical vocabulary
+- [↔] "again entangled in them and overcome" retained in substance — ἐμπλακέντες (entangled) and ἡττῶνται (overcome) are both rendered; the present-tense ἡττῶνται is captured by "are…overcome" (ongoing process)
+
+---
+
+**v.21**
+It would have been better for them not to have known the way of righteousness than to have known it and then to turn their backs on the sacred command that was passed on to them.
+
+*Rendering Notes (S4 → S5):*
+- [↔] "the holy commandment delivered to them" → "the sacred command that was passed on to them" — follows the key rendering decision; "sacred command" is slightly more accessible than "holy commandment"; "passed on to them" renders παραδοθείσης (tradition-transmission) more naturally than "delivered"
+- [↔] "to turn back from" → "to turn their backs on" — the idiom "turn their backs on" is more vivid and natural in English for the deliberate apostasy
+- [↔] "it would have been better for them never to have known" — counterfactual force preserved; the devastating logic (ignorance preferable to knowledge abandoned) stands intact
+
+---
+
+**v.22**
+What the true proverb says has happened to them: "A dog returns to its own vomit," and, "A sow that is washed goes back to her wallowing in the mud."
+
+*Rendering Notes (S4 → S5):*
+- [↔] "It has happened to them according to the true proverb" → "What the true proverb says has happened to them" — restructured for natural English; the perfect-tense fulfillment is preserved; ἀληθοῦς ("true," not merely "common") is retained
+- [↔] "A sow, after washing, returns to wallow in the mire" → "A sow that is washed goes back to her wallowing in the mud" — "mud" is slightly more natural than "mire" for a contemporary reader; the image is kept fully and vividly — not softened; the dog/vomit proverb is rendered directly [OT: Prov 26:11]
+- [↔] Both animal images retained at full vividness — the dog/vomit and the washed sow/mud; the chapter closes in the mud as it opened with the false teachers; no softening applied per the key rendering decision
+
+---
+
+*End of Section 5 — Thought-for-Thought*
+*2 Peter, Chapter 2 — 22 verses*
+*Tradition: NIV/CSB functional equivalence*
+*Key rendering decisions applied: "hell" for ταρταρόω (v.4); "preacher" for κήρυκα (v.5); "celestial beings" for δόξας (v.10); "blackest darkness" for ζόφος τοῦ σκότους (v.17); "people are slaves to whatever has mastered them" (v.19); "the sacred command that was passed on to them" (v.21); dog/vomit and sow/mud images retained at full vividness (v.22)*
+*Long conditional sentence (vv.4–9) broken into shorter English sentences with explicit logical connector ("then the Lord knows how to…") at v.9*

@@ -1,0 +1,264 @@
+/* Mobile-first, readable, no framework. */
+
+:root {
+  --bg: #fdfcf8;
+  --ink: #1a1a1a;
+  --muted: #5a5a5a;
+  --line: #d9d4c7;
+  --accent: #7a4a2a;
+  --accent-hover: #a36b3d;
+  --card: #ffffff;
+  --warn-bg: #fff5e6;
+  --warn-border: #e0b77a;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+  font-size: 18px;
+  line-height: 1.65;
+  padding: 0 16px 64px;
+}
+
+main { max-width: 720px; margin: 0 auto; }
+
+header.site {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 14px 0 10px;
+  border-bottom: 1px solid var(--line);
+}
+
+nav.crumbs {
+  font-size: 14px;
+  color: var(--muted);
+  word-wrap: break-word;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+nav.crumbs a { color: var(--accent); text-decoration: none; }
+nav.crumbs a:hover { text-decoration: underline; }
+nav.crumbs .sep { margin: 0 6px; color: var(--line); }
+
+h1 { font-size: 28px; line-height: 1.25; margin: 24px 0 8px; }
+h2 { font-size: 22px; line-height: 1.3;  margin: 28px 0 10px; }
+h3 { font-size: 19px; line-height: 1.35; margin: 22px 0 8px; }
+h4 { font-size: 17px; margin: 18px 0 6px; color: var(--muted); }
+
+p { margin: 12px 0; }
+
+a { color: var(--accent); }
+a:hover { color: var(--accent-hover); }
+
+blockquote {
+  border-left: 4px solid var(--accent);
+  background: #f6f1e4;
+  margin: 16px 0;
+  padding: 10px 16px;
+  color: #333;
+  border-radius: 0 4px 4px 0;
+}
+
+code, pre {
+  font-family: "SF Mono", Menlo, Consolas, monospace;
+  font-size: 15px;
+}
+pre {
+  background: #f3efe4;
+  padding: 12px;
+  overflow-x: auto;
+  border-radius: 4px;
+}
+code { background: #f3efe4; padding: 1px 5px; border-radius: 3px; }
+pre code { background: none; padding: 0; }
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--line);
+  margin: 28px 0;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 16px 0;
+  font-size: 16px;
+}
+th, td {
+  border: 1px solid var(--line);
+  padding: 8px 10px;
+  text-align: left;
+  vertical-align: top;
+}
+th { background: #f3efe4; }
+
+ul, ol { padding-left: 22px; }
+li { margin: 4px 0; }
+
+/* Book / chapter / layer cards */
+.cards {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
+.cards li a {
+  display: block;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: var(--ink);
+}
+.cards li a:hover {
+  border-color: var(--accent);
+  background: #fbf7ea;
+}
+.cards .label {
+  display: block;
+  font-size: 13px;
+  color: var(--muted);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 2px;
+}
+.cards .title { font-size: 19px; font-weight: 600; }
+.cards .sub { font-size: 14px; color: var(--muted); margin-top: 2px; }
+
+/* Prev/next chapter navigation */
+.prevnext {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 36px 0 0;
+  border-top: 1px solid var(--line);
+  padding-top: 16px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+.prevnext a {
+  flex: 1;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  text-decoration: none;
+  background: var(--card);
+}
+.prevnext a:hover { border-color: var(--accent); background: #fbf7ea; }
+.prevnext .dir { display: block; font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+.prevnext .label { display: block; font-size: 15px; color: var(--ink); margin-top: 2px; }
+.prevnext a.next { text-align: right; }
+.prevnext .placeholder {
+  flex: 1;
+  padding: 12px 14px;
+  opacity: 0.3;
+  border: 1px dashed var(--line);
+  border-radius: 6px;
+  text-align: center;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+/* Layer navigation at bottom of chapter index */
+.layer-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+}
+@media (min-width: 600px) {
+  .layer-grid { grid-template-columns: 1fr 1fr; }
+}
+
+footer.site {
+  max-width: 720px;
+  margin: 48px auto 0;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+  font-size: 13px;
+  color: var(--muted);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+footer.site a { color: var(--accent); }
+
+.warn {
+  background: var(--warn-bg);
+  border: 1px solid var(--warn-border);
+  padding: 10px 14px;
+  border-radius: 4px;
+  margin: 16px 0;
+  font-size: 15px;
+}
+
+@media (max-width: 480px) {
+  body { font-size: 17px; padding: 0 12px 48px; }
+  h1 { font-size: 24px; }
+  h2 { font-size: 20px; }
+}
+
+/* Print: black text on white, strip all site chrome except crumbs as plain text. */
+@media print {
+  :root {
+    --bg: #ffffff;
+    --ink: #000000;
+    --muted: #000000;
+    --line: #000000;
+    --accent: #000000;
+    --accent-hover: #000000;
+    --card: #ffffff;
+    --warn-bg: #ffffff;
+    --warn-border: #000000;
+  }
+  html, body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+  body {
+    font-size: 11pt;
+    line-height: 1.45;
+    padding: 0;
+    max-width: none;
+  }
+  main, header.site, footer.site { max-width: none; }
+  a, a:visited {
+    color: #000000 !important;
+    text-decoration: none;
+  }
+  /* Hide navigation chrome in print — it's noise on paper. */
+  nav.crumbs,
+  nav.prevnext,
+  footer.site,
+  header.site {
+    display: none !important;
+  }
+  blockquote {
+    background: #ffffff !important;
+    border-left: 2pt solid #000000;
+    color: #000000 !important;
+    page-break-inside: avoid;
+  }
+  code, pre {
+    background: #ffffff !important;
+    color: #000000 !important;
+    border: 1pt solid #000000;
+  }
+  pre { page-break-inside: avoid; }
+  table, th, td { border-color: #000000 !important; }
+  th { background: #ffffff !important; }
+  hr { border-top: 1pt solid #000000; }
+  h1, h2, h3, h4 { color: #000000 !important; page-break-after: avoid; }
+  .cards, .layer-grid, .prevnext, .placeholder { display: none !important; }
+  .warn {
+    background: #ffffff !important;
+    border: 1pt solid #000000;
+    color: #000000 !important;
+  }
+  @page { margin: 0.75in; }
+}

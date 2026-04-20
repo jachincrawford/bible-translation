@@ -1,0 +1,84 @@
+# Commentary Stream — Spiritual and Devotional
+## 2 Peter, Chapter 2
+[DEVOTIONAL — Formational Use Only, Not Exegesis]
+**Generated:** 2026-03-20
+
+---
+
+> **Layer 7H Integrity Rule:** Stay devotional and formational. Every observation is grounded in the text (cite verse references as [v.X]) but the mode is reflective, formational, and prayerful — not exegetical or systematic. No claims are made about what the text "means" technically. The question here is: what does this passage invite the reader into?
+
+---
+
+## Opening: Before We Read This Chapter
+
+Lord, this is a hard chapter. It does not flatter its readers, and it does not let them look away. It names things clearly — the seduction of false teaching, the mercy of rescue, the bondage of self-deception, the tragedy of knowing and turning back. Grant us the courage to receive it honestly, neither hardening ourselves against the warning nor reading it only about someone else. Meet us here.
+
+---
+
+## Formation Theme 1 — Discernment: Teaching That Looks Good But Leads Away
+
+[vv.1–3]
+
+The false teachers in this chapter do not announce themselves as destroyers. They come from within the community — "among you" [v.1]. They introduce their heresies "secretly," not by open assault but by gradual drift, the way a current works on a swimmer who is not paying attention. And many follow them [v.2]. That word "many" should give us pause. It is not the credulous or the shallow who are taken in; it is the many. The appeal is real. Something about what they offer actually satisfies something people are hungry for.
+
+What is the hunger? The text hints at it through the word "greed" [v.3] — not necessarily financial greed, though that may be present, but the deeper appetite for teaching that confirms what we already want, that makes the difficult easy, that smooths what God has left rough. Exploitative teachers are experts at reading that hunger and feeding it. The fabricated stories they tell are stories that feel true — stories tailored to the desires of their audience.
+
+The sobering invitation of this passage is this: discernment is not primarily about intelligence. It is about the condition of our desires. The person who most wants to hear something flattering is the person most vulnerable to the teacher who offers it. Before asking "Is this teacher reliable?" we might ask: "What do I want this teacher to tell me? And what would I prefer not to hear?"
+
+**Reflective question:** Is there a teaching I have received recently — in a sermon, a book, a podcast — that felt like relief rather than challenge? What was it relieving me of?
+
+---
+
+## Formation Theme 2 — God's Faithfulness in Rescue: He Knew How to Rescue Lot
+
+[vv.7–9]
+
+The Lot passage is one of the most quietly stunning moments in the letter. Peter calls him "a righteous man" [v.7] — a description that will surprise anyone who has read the Genesis account in full. Lot is not a clean figure. He chose Sodom. He lingered when the angels urged him to flee. He is not a hero. And yet Peter tells us that living there, day after day, his righteous soul was tormented by what he saw and heard [v.8]. Something in him knew. He had not become what surrounded him. He had not gone numb. He was not at peace in Sodom, even if he stayed longer than he should have.
+
+And God rescued him [v.7]. The God who destroyed the cities that surrounded Lot was also the God who pulled Lot out. "The Lord knows how to rescue the godly from trials" [v.9]. Knows how. Present tense. Ongoing competence. Not "the Lord once rescued" but "the Lord knows how" — as if rescue is something he understands deeply, something he is practiced in, something he has not forgotten how to do.
+
+This is not a promise that the godly will never find themselves in Sodom. Lot was in Sodom. What it is: a promise that the God who watches knows where we are, knows the torment of living in conditions that grind against the conscience day after day, and knows how to reach in. He is not absent. He has not lost the thread.
+
+**Reflective question:** Where in your life are you enduring something that wears at you daily — a situation you may have chosen, or been placed in, that daily costs your soul something? Have you brought that place to God and told him you need to be found there?
+
+---
+
+## Formation Theme 3 — The Slavery of Self-Deception: Promising Freedom While Enslaved
+
+[v.19]
+
+This verse is devastating in its precision. "They promise them freedom, while they themselves are slaves of corruption" [v.19]. The promise is not insincere in the ordinary sense — these are not necessarily conscious frauds, people who know they are lying. Something more unsettling is happening. They have convinced themselves. They experience their corruption as liberation. They are genuinely enthusiastic about the freedom they are selling because they cannot see their own chains.
+
+The logic that follows is epigrammatic and terrible: "people are slaves to whatever has mastered them" [v.19]. The thing that has overcome you becomes your master. You do not choose slavery; you lose a contest, and the winner owns you. Repeated loss, repeated surrender, repeated yielding to a desire or a pattern or a need — and over time the thing that once felt like a choice no longer feels like a choice. It feels like who you are.
+
+The false teachers are not offering freedom from something. They are offering a rebranding of the thing that has mastered them. What they call freedom, the text calls slavery. The spiritual danger of this is that the experience of being enslaved can feel, under the right framing, indistinguishable from freedom — especially if the framing is provided by someone charismatic, articulate, and certain.
+
+**Reflective question:** Is there an area of your life you have privately renamed — something you call "freedom" or "self-care" or "authenticity" that, honestly examined, might be a habit you have lost the ability to refuse?
+
+---
+
+## Formation Theme 4 — The Tragedy of Turning Back: Knowing the Way and Choosing Not to Walk It
+
+[vv.20–22]
+
+The end of this chapter does not allow for a comfortable conclusion. Peter does not pull his punch. If people have escaped the corruption of the world "by knowing our Lord and Savior Jesus Christ" and then are "again entangled in it and overcome," he says plainly: "they are worse off at the end than they were at the beginning" [v.20]. And worse still: "it would have been better for them not to have known the way of righteousness" than to have known it and turned away [v.21].
+
+This is sobering not because it tells us something about God's severity but because it tells us something about the weight of knowledge. To know the way — to have walked in it, to have tasted what it offers, to have received its gifts — and then to turn back is a different kind of tragedy than never having known at all. The dog returns. The washed sow returns to the mud [v.22]. The proverbs are deliberately ugly. Peter does not soften the images, and we should not either. The return to what was once left behind is not simply a setback; it is the proof that the nature was not changed, only the surface.
+
+But notice what this passage does not say. It does not say that return is impossible. It does not say that everyone who stumbles is in this category. The distinction Peter is drawing is between those who are genuinely entangled and overcome — conquered again by what once conquered them — and those who are still in the struggle. The person asking whether they have gone too far back to return is almost certainly not in this passage. The person in this passage is not asking.
+
+And even here — even in the harshest passage — the God of vv.7–9 is still in the letter. He knows how to rescue. He knew how to rescue Lot, and he knows how to rescue us.
+
+**Reflective question:** Is there a pattern in your life that you have left and returned to more than once? What would it mean to take seriously, this time, that the return has a cost — not just in consequences, but in the soul?
+
+---
+
+## Closing Prayer
+
+Lord, this chapter is uncomfortable in the way that only honest things are. We have heard its warnings, and we do not want to read them as being only about someone else. We have, each of us, some version of the hunger that false teaching feeds. We have, each of us, some area where we are less free than we believe. Grant us the grace of honest self-examination — not morbid, not despairing, but clear. You are the God who rescued Lot from Sodom, who knows how to find the person worn down by what surrounds them. Find us. And for those among us who have known the way and walked away from it: do not let the shame of returning keep us from returning. You have not forgotten how to rescue. You have not forgotten us. We ask for the courage to keep walking the way we know, and for mercy on every step where we have not. Amen.
+
+---
+
+*End of Commentary Stream 7H — Spiritual and Devotional*
+*2 Peter, Chapter 2*
+*[DEVOTIONAL — Formational Use Only, Not Exegesis]*

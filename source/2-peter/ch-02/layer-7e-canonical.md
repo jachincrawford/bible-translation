@@ -1,0 +1,78 @@
+# Commentary Stream — Canonical Analysis
+## 2 Peter, Chapter 2
+**Generated:** 2026-03-20
+
+---
+
+> **Layer 7E Integrity Rule:** Read canonically. Show how this text connects to the wider canon — OT backgrounds, NT parallels, redemptive-historical development. Do not duplicate Layer 7B (first-century historical context) or Layer 7F (systematic theology). The question here is: where does this passage sit in the whole Bible's story?
+
+---
+
+## The Canon's Pattern: Judgment and Rescue as Twin Certainties
+
+2 Peter 2 does not argue for divine judgment from first principles. It remembers it. The entire chapter is structured as the retrieval of a pattern already established in the canon — a pattern so consistent across the storyline of Scripture that Peter can present it as settled evidence for a present claim: God knows how to rescue the godly and keep the unrighteous for the day of judgment [v.9]. The apodosis of the long conditional sentence (vv.4–9) arrives as a theological axiom precisely because the three cases that precede it (angels, Noah, Lot) are drawn from the canon's own archive of divine precedent.
+
+This is exegetically significant. Peter does not appeal to abstract theodicy. He appeals to the biblical record itself — to what God has demonstrably done — and draws the contemporary inference. The chapter is canonical reasoning in action.
+
+---
+
+## The Fallen Angels — Genesis 6, Tartarus, and Second Temple Tradition
+
+The first case [v.4] draws on a layer of OT tradition that sits at the intersection of Genesis 6:1–4 and the rich Second Temple elaboration found in 1 Enoch 6–10. The "sons of God" (בְּנֵי הָאֱלֹהִים) who took human wives in Genesis 6 are read in the Second Temple Jewish tradition as angelic beings who transgressed their proper domain — a reading Peter inherits and deploys without requiring his audience to adjudicate the exegetical question. The distinctive term ταρταρόω [v.4] — drawn from Greco-Roman cosmology's name for the prison of the Titans — is itself a canonical translation move: Peter maps the Tartarus concept onto the tradition of imprisoned angels, making the cosmological point legible to readers formed in both Jewish and Hellenistic thought.
+
+The point is not the angelology; it is the principle. Even those of surpassing power and proximity to God were not immune from judgment when they transgressed the order God established. The canon's testimony begins at the highest register of the created order and works downward: no creature stands above the reach of divine judgment.
+
+---
+
+## Noah — The Eighth Person and the Typology of the Remnant
+
+The Noah case [v.5] compresses an entire canonical tradition into a phrase. The designation "herald of righteousness" is not found in the Hebrew OT — it belongs to the Second Temple interpretive tradition — but the pattern it identifies is thoroughly canonical. Genesis 6–9 establishes what will become a recurring structure in Scripture: the many judged, the few preserved; the world submerged, one household held above the water.
+
+The numeral "one of eight" — ὄγδοον [v.5] — is not incidental. It echoes 1 Peter 3:20, where the same eight souls are held as the paradigm of those "saved through water." The extreme fewness of the preserved is the canonical point: the rescue does not require a majority. God preserves what he will preserve, regardless of number. The pattern inaugurated in Noah becomes structural: Elijah alone, the seven thousand who have not bowed to Baal (1 Kings 19:18), the remnant of Isaiah (Isaiah 10:20–22), Paul's citation of that remnant theology in Romans 9:27. The canon develops a sustained theology of the faithful remnant that 2 Peter 2 draws on without needing to name explicitly — the Noah typology carries the whole tradition in solution.
+
+---
+
+## Lot — Sodom, the Righteous Soul, and the Standing Exhibit
+
+The Lot case [vv.6–8] moves from cosmic prehistory to Israelite memory: Sodom and Gomorrah are the canon's most cited image of total judgment, appearing in Genesis 19, Deuteronomy 29:23, Isaiah 1:9, 13:19, Jeremiah 49:18, 50:40, Amos 4:11, and Zephaniah 2:9 — to name only the OT occurrences. Jesus cites Sodom as the proleptic exhibit of eschatological judgment (Matthew 10:15; 11:23–24; Luke 17:29). Jude 7 cites the same cities as the warning against sexual immorality and the pursuit of "other flesh." The canon returns to Sodom with remarkable consistency: it is the permanently established exhibit (ὑπόδειγμα, v.6) — a standing pedagogical monument that the whole scriptural witness refuses to let be forgotten.
+
+What 2 Peter adds to this tradition is the canonical significance of Lot's inner life [vv.7–8]. Genesis 19 presents a morally ambiguous Lot — hesitating, compromised, ultimately rescued more by Abraham's intercession than by his own righteousness. But the canon's wider testimony is being read here through a principle that runs from Habakkuk 2:4 through Romans 1:17 to Hebrews 11: the righteous are those who live by faith, who are "tormented" in their souls by evil precisely because they are not given to it. Lot's daily anguish [v.8] is his canonical credential.
+
+---
+
+## Balaam — The Mercenary Prophet and the Canonical Type of the False Teacher
+
+The Balaam case [vv.15–16] is one of the most densely intertextual in the NT. The OT record spans Numbers 22–24 (the oracles), Numbers 31:16 (the identification of Balaam as the cause of Israel's apostasy at Peor), Deuteronomy 23:4–5 (the canonical condemnation of his hired opposition), Nehemiah 13:2 (the post-exilic echo of that condemnation), and Joshua 13:22 (Balaam's death). The tradition is consistent: Balaam is the paradigm of the prophet-for-hire who bends spiritual authority toward commercial advantage.
+
+Peter's use of Balaam here connects directly to the NT's own canonical reception of the type. Jude 11 names Balaam alongside Cain and Korah as the archetypal pattern of false leadership — error pursued for profit. Revelation 2:14 identifies a teaching in Pergamum as "the teaching of Balaam," making the type a live heresiological category for the churches of Asia Minor. Peter's deployment of the same type locates his false teachers within this canonical lineage: they are not an unprecedented threat but a recurrence of a known pattern, one the canon has been naming and condemning since the wilderness generation.
+
+The donkey rebuking the prophet [v.16] carries canonical irony that runs deeper than the surface absurdity. Numbers 22 presents the donkey as the creature with more spiritual perception than the seer — a reversal of the natural order that Scripture occasionally deploys to expose the spiritual blindness of those who should know better (cf. Isaiah 1:3, where the ox knows its owner but Israel does not). The canon speaks here through created order inverted.
+
+---
+
+## Jude, 1 Peter, and the NT Canonical Relationship
+
+The relationship between 2 Peter 2 and Jude 4–16 is the most significant canonical question the chapter raises. The parallels are too sustained to be coincidental — fallen angels, the destruction of the ignorant, waterless clouds/springs, reserved darkness, Balaam, the "way" language — and the direction of literary dependence (whether Peter drew on Jude, Jude on Peter, or both on a common source) remains a matter of textual history rather than canonical theology. What the canon presents is two apostolic witnesses to the same pattern of false teaching, using substantially overlapping OT exempla. The canonical effect of this double witness is reinforcement: the tradition about recognizing and resisting false teachers is attested by more than one voice, drawn from the same scriptural archive.
+
+1 Peter 2:1 (the warning to put away malice and deceit) and the false prophet warnings of Matthew 7:15 (wolves in sheep's clothing) belong to the same canonical stream: the NT builds a consistent theology of the teacher who corrupts the community from within. Revelation 2:14, 20 (Balaam and Jezebel as false teacher types) demonstrates that by the time of Revelation, this typological apparatus is fully operative as a heresiological vocabulary.
+
+---
+
+## Redemptive-Historical Location: The "Already-But-Not-Yet" of Judgment
+
+The apodosis of [v.9] — "the Lord knows how to rescue the godly from trial, and to keep the unrighteous under punishment for the day of judgment" — places the chapter precisely at the redemptive-historical tension between present reality and eschatological consummation. The present participle κολαζομένους ("being punished") indicates that divine retribution is not entirely deferred: the unrighteous are already under a custody that is itself punitive. Yet the day of judgment [v.9] remains the horizon toward which the whole arrangement moves.
+
+This is the canonical "already-but-not-yet" that threads from Daniel's visions through the teaching of Jesus (the wheat and tares of Matthew 13 — judgment deferred but certain) to Paul's framing of present suffering and future glory (Romans 8:18–25) to the cry of the martyrs under the altar in Revelation 6:10 ("How long?"). The canon does not promise that judgment will be immediately visible or universally acknowledged in the present age. It promises that the divine custody is real, that the sentence has been standing since of old [v.3], and that the day of consummation does not slumber [v.3].
+
+---
+
+## The Proverb and the Chapter's End: Canon Speaks Through Wisdom
+
+The final verse [v.22] closes the chapter with what Peter calls "the true proverb" — an appeal to Proverbs 26:11 (the dog returning to its vomit). The citation is not incidental: it is a canonical claim. The wisdom tradition — which in the OT canon functions as the observation of God's order written into the nature of things — here pronounces the final verdict on apostasy. The animal returns to what it is by nature. The apostate returns to what they never truly left.
+
+The canon speaks with a unified voice in 2 Peter 2: from the primordial disruption of Genesis 6 through the wilderness generation to the sages of Proverbs, the testimony is consistent. God has established an order. Those who rebel against it are judged. Those who endure within it are rescued. The pattern is not speculation — it is the accumulated witness of the whole scriptural archive, and 2 Peter sets it as the canonical warrant for the present community's confidence in the face of those who deny it.
+
+---
+
+*End of Commentary Stream 7E — Canonical Analysis*
+*2 Peter, Chapter 2*
