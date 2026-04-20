@@ -92,11 +92,13 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ## Verse-by-Verse
 
+> Each verse below is either stated as a single agreed text (all five witnesses read the same) or presented as a variant table. In the table, each row is one textual variant in the verse; cells in **bold** differ from the majority reading. Rows where all five witnesses agree are collapsed out — stated implicitly by the reference text shown beneath the table.
+
 ---
 
 ### v.1
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `Ἐγένοντο δὲ καὶ ψευδοπροφῆται ἐν τῷ λαῷ, ὡς καὶ ἐν ὑμῖν ἔσονται ψευδοδιδάσκαλοι, οἵτινες παρεισάξουσιν αἱρέσεις ἀπωλείας, καὶ τὸν ἀγοράσαντα αὐτοὺς δεσπότην ἀρνούμενοι, ἐπάγοντες ἑαυτοῖς ταχινὴν ἀπώλειαν·`
 
@@ -142,7 +144,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.2
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `καὶ πολλοὶ ἐξακολουθήσουσιν αὐτῶν ταῖς ἀσελγείαις, διʼ οὓς ἡ ὁδὸς τῆς ἀληθείας βλασφημηθήσεται·`
 
@@ -173,20 +175,22 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.3
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: final clause, on the verb of ἀπώλεια*
-- SBLGNT, N1904, NA28, WH: `νυστάζει` (V-PAI-3S — present active indicative, "does not slumber")
-- RP: `νυστάξει` (V-FAI-3S — future active indicative, "will not slumber")
-- Nature: tense-change (present → future)
-- Significance: minor rhetorical shade; present aspect states the destruction's unceasing vigilance as a standing reality, future projects it forward
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> final clause, on the verb of ἀπώλεια</td><td><code>νυστάζει</code></td><td><code>νυστάζει</code></td><td><code>νυστάζει</code></td><td><code>νυστάζει</code></td><td><strong><code>νυστάξει</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `καὶ ἐν πλεονεξίᾳ πλαστοῖς λόγοις ὑμᾶς ἐμπορεύσονται· οἷς τὸ κρίμα ἔκπαλαι οὐκ ἀργεῖ, καὶ ἡ ἀπώλεια αὐτῶν οὐ νυστάζει.`
-- **N1904:** = SBLGNT
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** `καὶ ἐν πλεονεξίᾳ πλαστοῖς λόγοις ὑμᾶς ἐμπορεύσονται· οἷς τὸ κρίμα ἔκπαλαι οὐκ ἀργεῖ, καὶ ἡ ἀπώλεια αὐτῶν οὐ νυστάξει.`
+**How they differ:**
+
+1. *tense-change (present → future).* minor rhetorical shade; present aspect states the destruction's unceasing vigilance as a standing reality, future projects it forward
+
+**Reference text (SBLGNT):** `καὶ ἐν πλεονεξίᾳ πλαστοῖς λόγοις ὑμᾶς ἐμπορεύσονται· οἷς τὸ κρίμα ἔκπαλαι οὐκ ἀργεῖ, καὶ ἡ ἀπώλεια αὐτῶν οὐ νυστάζει.`
 
 **Morphology (from N1904):**
 
@@ -222,22 +226,22 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.4
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: instrument of Tartarus-binding*
-- SBLGNT, NA28, RP: `σειραῖς` (N-DPF, σειρά — "chains/cords")
-- WH: `σιροῖς` / `σειροῖς` (N-DPM, σιρός — "pits/dungeons")
-- Treg: `σιροῖς` (aligns with WH in SBL apparatus)
-- N1904: `σειροῖς` (printed form; CSV lemma σιρός, Strong 4577) — agrees with WH/Treg on the "pits" lexeme
-- Nature: lexical substitution — two distinct nouns (σειρά "chain" vs. σιρός "underground pit")
-- Significance: substantive imagery. "Chains of gloom" (σειραῖς) evokes bound rebel angels; "pits of gloom" (σιροῖς/σειροῖς) evokes subterranean imprisonment (cf. 1 En. 10:4–6). Manuscript evidence is divided; the difference is a single letter (αι/οι) and may be a very early orthographic slip
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> instrument of Tartarus-binding</td><td><code>σειραῖς</code></td><td><strong><code>σειροῖς</code></strong></td><td><code>σειραῖς</code></td><td><strong><code>σιροῖς</code></strong></td><td><code>σειραῖς</code></td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `Εἰ γὰρ ὁ θεὸς ἀγγέλων ἁμαρτησάντων οὐκ ἐφείσατο, ἀλλὰ σειραῖς ζόφου ταρταρώσας παρέδωκεν εἰς κρίσιν τηρουμένους,`
-- **N1904:** `εἰ γὰρ ὁ Θεὸς ἀγγέλων ἁμαρτησάντων οὐκ ἐφείσατο, ἀλλὰ σειροῖς ζόφου ταρταρώσας παρέδωκεν εἰς κρίσιν τηρουμένους,`
-- **NA28:** = SBLGNT
-- **WH:** `εἰ γὰρ ὁ θεὸς ἀγγέλων ἁμαρτησάντων οὐκ ἐφείσατο, ἀλλὰ σιροῖς ζόφου ταρταρώσας παρέδωκεν εἰς κρίσιν τηρουμένους,`
-- **RP:** = SBLGNT
+**How they differ:**
+
+1. *lexical substitution — two distinct nouns (σειρά "chain" vs. σιρός "underground pit").* substantive imagery. "Chains of gloom" (σειραῖς) evokes bound rebel angels; "pits of gloom" (σιροῖς/σειροῖς) evokes subterranean imprisonment (cf. 1 En. 10:4–6). Manuscript evidence is divided; the difference is a single letter (αι/οι) and may be a very early orthographic slip
+
+**Reference text (SBLGNT):** `Εἰ γὰρ ὁ θεὸς ἀγγέλων ἁμαρτησάντων οὐκ ἐφείσατο, ἀλλὰ σειραῖς ζόφου ταρταρώσας παρέδωκεν εἰς κρίσιν τηρουμένους,`
 
 **Morphology (from N1904, `σειροῖς` reading):**
 
@@ -271,7 +275,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.5
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `καὶ ἀρχαίου κόσμου οὐκ ἐφείσατο, ἀλλὰ ὄγδοον Νῶε δικαιοσύνης κήρυκα ἐφύλαξεν, κατακλυσμὸν κόσμῳ ἀσεβῶν ἐπάξας,`
 
@@ -304,30 +308,24 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.6
 
-**Variants detected: 1**
+**2 variants across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: infinitive/adjective in `ὑπόδειγμα μελλόντων ___ τεθεικώς`*
-- SBLGNT, N1904, NA28, RP: `ἀσεβεῖν` (V-PAN — present active infinitive, "to be impious/live impiously")
-- WH: `ἀσεβέσιν` (A-DPM — adjective dative plural, "for the impious [ones]")
-- Nature: lexical / part-of-speech substitution — infinitive of the verb ἀσεβέω (764) vs. adjective ἀσεβής (765)
-- Significance: substantive grammatical shift. Eclectic/Byzantine reading: "having placed as a specimen of those about *to live ungodly*"; WH reading: "…as a specimen *for the ungodly* of things to come". Both forms share consonantal frame; discrepancy may reflect early dictation ambiguity
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> infinitive/adjective in <code>ὑπόδειγμα μελλόντων ___ τεθεικώς</code></td><td><code>ἀσεβεῖν</code></td><td><code>ἀσεβεῖν</code></td><td><code>ἀσεβεῖν</code></td><td><strong><code>ἀσεβέσιν</code></strong></td><td><code>ἀσεβεῖν</code></td></tr>
+<tr><td><strong>2.</strong> after <code>τεφρώσας</code></td><td><code>καταστροφῇ κατέκρινεν</code></td><td><code>καταστροφῇ κατέκρινεν</code></td><td><code>καταστροφῇ κατέκρινεν</code></td><td><strong><code>κατέκρινεν</code></strong></td><td><code>καταστροφῇ κατέκρινεν</code></td></tr>
+</tbody>
+</table>
+</div>
 
-*(Note: the SBL apparatus further records a sub-variant `καταστροφῇ` Treg/NA28/RP ] – WH — i.e., WH omits `καταστροφῇ` entirely. Since this is a one-word omission unique to WH, it is packaged here within the same verse's variant envelope.)*
+**How they differ:**
 
-**⟨Variant 2⟩** *Location: after `τεφρώσας`*
-- SBLGNT, N1904, NA28, RP: `καταστροφῇ κατέκρινεν` (with instrumental dative `καταστροφῇ`)
-- WH: `κατέκρινεν` (omits `καταστροφῇ`)
-- Nature: omission / presence of noun
-- Significance: WH's shorter reading omits the explicit "with overthrow/ruin"; the verb κατέκρινεν alone suffices, but the longer reading is specificatory and the likely original — printer's eye-skip is the common explanation
+1. *lexical / part-of-speech substitution — infinitive of the verb ἀσεβέω (764) vs. adjective ἀσεβής (765).* substantive grammatical shift. Eclectic/Byzantine reading: "having placed as a specimen of those about *to live ungodly*"; WH reading: "…as a specimen *for the ungodly* of things to come". Both forms share consonantal frame; discrepancy may reflect early dictation ambiguity
+2. *omission / presence of noun.* WH's shorter reading omits the explicit "with overthrow/ruin"; the verb κατέκρινεν alone suffices, but the longer reading is specificatory and the likely original — printer's eye-skip is the common explanation
 
-**Full text per tradition:**
-- **SBLGNT:** `καὶ πόλεις Σοδόμων καὶ Γομόρρας τεφρώσας καταστροφῇ κατέκρινεν, ὑπόδειγμα μελλόντων ἀσεβέσιν τεθεικώς,`
-
-*(SBLGNT prints `ἀσεβέσιν` in its main text but records `ἀσεβεῖν` as the Treg/NA28/RP variant; see apparatus. N1904 and modern editors read `ἀσεβεῖν`.)*
-- **N1904:** `καὶ πόλεις Σοδόμων καὶ Γομόρρας τεφρώσας καταστροφῇ κατέκρινεν, ὑπόδειγμα μελλόντων ἀσεβεῖν τεθεικώς,`
-- **NA28:** `καὶ πόλεις Σοδόμων καὶ Γομόρρας τεφρώσας καταστροφῇ κατέκρινεν, ὑπόδειγμα μελλόντων ἀσεβεῖν τεθεικώς,`
-- **WH:** `καὶ πόλεις Σοδόμων καὶ Γομόρρας τεφρώσας κατέκρινεν, ὑπόδειγμα μελλόντων ἀσεβέσιν τεθεικώς,`
-- **RP:** = NA28
+**Reference text (SBLGNT):** `καὶ πόλεις Σοδόμων καὶ Γομόρρας τεφρώσας καταστροφῇ κατέκρινεν, ὑπόδειγμα μελλόντων ἀσεβέσιν τεθεικώς,`
 
 **Morphology (from N1904):**
 
@@ -357,7 +355,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.7
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `καὶ δίκαιον Λὼτ καταπονούμενον ὑπὸ τῆς τῶν ἀθέσμων ἐν ἀσελγείᾳ ἀναστροφῆς ἐρρύσατο—`
 
@@ -387,20 +385,22 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.8
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: before `δίκαιος`*
-- SBLGNT, N1904, NA28, RP: `ὁ δίκαιος` (with article)
-- WH: `δίκαιος` (anarthrous — omits article)
-- Nature: presence / absence of article
-- Significance: with article Lot is "the righteous one" (the already-named righteous man of v.7); without article he is identified simply by the attribute. Semantic difference slight; reading with article is better supported
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> before <code>δίκαιος</code></td><td><code>ὁ δίκαιος</code></td><td><code>ὁ δίκαιος</code></td><td><code>ὁ δίκαιος</code></td><td><strong><code>δίκαιος</code></strong></td><td><code>ὁ δίκαιος</code></td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `βλέμματι γὰρ καὶ ἀκοῇ ὁ δίκαιος ἐγκατοικῶν ἐν αὐτοῖς ἡμέραν ἐξ ἡμέρας ψυχὴν δικαίαν ἀνόμοις ἔργοις ἐβασάνιζεν—`
-- **N1904:** `βλέμματι γὰρ καὶ ἀκοῇ ὁ δίκαιος ἐνκατοικῶν ἐν αὐτοῖς ἡμέραν ἐξ ἡμέρας ψυχὴν δικαίαν ἀνόμοις ἔργοις ἐβασάνιζεν—` *(N1904 prints `ἐνκατοικῶν` — orthographic variant for SBL `ἐγκατοικῶν`, same lemma)*
-- **NA28:** = SBLGNT
-- **WH:** `βλέμματι γὰρ καὶ ἀκοῇ δίκαιος ἐγκατοικῶν ἐν αὐτοῖς ἡμέραν ἐξ ἡμέρας ψυχὴν δικαίαν ἀνόμοις ἔργοις ἐβασάνιζεν—`
-- **RP:** = SBLGNT
+**How they differ:**
+
+1. *presence / absence of article.* with article Lot is "the righteous one" (the already-named righteous man of v.7); without article he is identified simply by the attribute. Semantic difference slight; reading with article is better supported
+
+**Reference text (SBLGNT):** `βλέμματι γὰρ καὶ ἀκοῇ ὁ δίκαιος ἐγκατοικῶν ἐν αὐτοῖς ἡμέραν ἐξ ἡμέρας ψυχὴν δικαίαν ἀνόμοις ἔργοις ἐβασάνιζεν—`
 
 **Morphology (from N1904):**
 
@@ -434,7 +434,9 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.9
 
-**All sources agree.** *(N1904 capitalizes `Κύριος`)*
+**All 5 witnesses agree.**
+
+*N1904 capitalizes `Κύριος`*
 
 **Text:** `οἶδεν κύριος εὐσεβεῖς ἐκ πειρασμοῦ ῥύεσθαι, ἀδίκους δὲ εἰς ἡμέραν κρίσεως κολαζομένους τηρεῖν,`
 
@@ -465,7 +467,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.10
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `μάλιστα δὲ τοὺς ὀπίσω σαρκὸς ἐν ἐπιθυμίᾳ μιασμοῦ πορευομένους καὶ κυριότητος καταφρονοῦντας. Τολμηταί, αὐθάδεις, δόξας οὐ τρέμουσιν, βλασφημοῦντες,`
 
@@ -502,21 +504,22 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.11
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: following `κατ᾽ αὐτῶν`, before `βλάσφημον κρίσιν`*
-- SBLGNT: `κατ᾽ αὐτῶν βλάσφημον κρίσιν` (omits `παρὰ κυρίῳ` — follows Holmes' conjecture / WHmarg)
-- N1904, WH, NA28, RP: `κατ᾽ αὐτῶν παρὰ κυρίῳ βλάσφημον κρίσιν` (adds `παρὰ κυρίῳ`)
-- NA27 also inserted `παρὰ κυρίου` (genitive case, "from [the] Lord") rather than dative
-- Nature: presence / absence of prepositional phrase `παρὰ κυρίῳ`; and within that, dative (all above) vs. genitive (NA27 only)
-- Significance: substantive. The longer reading makes the angels' restraint explicit: they do not bring slanderous judgment *before the Lord*. Without it, the angels simply do not bring blasphemous judgment at all. SBLGNT's shorter reading follows the perceived-harder-reading judgment of Holmes; the majority of witnesses and modern editors retain `παρὰ κυρίῳ`. Cf. Jude 9 parallel
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> following <code>κατ᾽ αὐτῶν</code>, before <code>βλάσφημον κρίσιν</code></td><td><strong><code>κατ᾽ αὐτῶν βλάσφημον κρίσιν</code></strong></td><td><code>κατ᾽ αὐτῶν παρὰ κυρίῳ βλάσφημον κρίσιν</code></td><td><code>κατ᾽ αὐτῶν παρὰ κυρίῳ βλάσφημον κρίσιν</code></td><td><code>κατ᾽ αὐτῶν παρὰ κυρίῳ βλάσφημον κρίσιν</code></td><td><code>κατ᾽ αὐτῶν παρὰ κυρίῳ βλάσφημον κρίσιν</code></td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `ὅπου ἄγγελοι ἰσχύϊ καὶ δυνάμει μείζονες ὄντες οὐ φέρουσιν κατʼ αὐτῶν βλάσφημον κρίσιν.`
-- **N1904:** `ὅπου ἄγγελοι ἰσχύϊ καὶ δυνάμει μείζονες ὄντες οὐ φέρουσιν κατ᾽ αὐτῶν παρὰ Κυρίῳ βλάσφημον κρίσιν.`
-- **NA28:** = N1904 (lower-case `κυρίῳ`)
-- **WH:** = N1904 (lower-case `κυρίῳ`)
-- **RP:** = N1904 (lower-case `κυρίῳ`)
+**How they differ:**
+
+1. *presence / absence of prepositional phrase `παρὰ κυρίῳ`; and within that, dative (all above) vs. genitive (NA27 only).* substantive. The longer reading makes the angels' restraint explicit: they do not bring slanderous judgment *before the Lord*. Without it, the angels simply do not bring blasphemous judgment at all. SBLGNT's shorter reading follows the perceived-harder-reading judgment of Holmes; the majority of witnesses and modern editors retain `παρὰ κυρίῳ`. Cf. Jude 9 parallel
+
+**Reference text (SBLGNT):** `ὅπου ἄγγελοι ἰσχύϊ καὶ δυνάμει μείζονες ὄντες οὐ φέρουσιν κατʼ αὐτῶν βλάσφημον κρίσιν.`
 
 **Morphology (from N1904, with `παρὰ Κυρίῳ`):**
 
@@ -547,26 +550,24 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.12
 
-**Variants detected: 2**
+**2 variants across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: after `ἄλογα ζῷα`*
-- SBLGNT, N1904, NA28, WH: `γεγεννημένα φυσικὰ` (perfect passive participle of γεννάω + adjective)
-- RP: `φυσικὰ γεγενημένα` (word order reversed; also spelling `γεγενημένα` rather than `γεγεννημένα`)
-- Nature: word order + single-letter spelling (double-ν vs single-ν on perfect stem of γεννάω vs γίνομαι root)
-- Significance: both RP differences are minor; the spelling change may reflect variant stem perception — `γεννάω` (to beget) vs `γίνομαι` (to become/be born); word order is stylistic
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> after <code>ἄλογα ζῷα</code></td><td><code>γεγεννημένα φυσικὰ</code></td><td><code>γεγεννημένα φυσικὰ</code></td><td><code>γεγεννημένα φυσικὰ</code></td><td><code>γεγεννημένα φυσικὰ</code></td><td><strong><code>φυσικὰ γεγενημένα</code></strong></td></tr>
+<tr><td><strong>2.</strong> at the end of the verse</td><td><code>καὶ φθαρήσονται</code></td><td><code>καὶ φθαρήσονται</code></td><td><code>καὶ φθαρήσονται</code></td><td><code>καὶ φθαρήσονται</code></td><td><strong><code>καταφθαρήσονται</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**⟨Variant 2⟩** *Location: at the end of the verse*
-- SBLGNT, N1904, NA28, WH: `καὶ φθαρήσονται` (conjunction + future passive 3P)
-- RP: `καταφθαρήσονται` (compound verb καταφθείρω in place of simple φθείρω)
-- Nature: lexical / compound — RP compresses "and will be destroyed" into a single compound future "will be utterly destroyed"
-- Significance: RP's compound intensifies the destruction; the eclectic reading preserves the paronomasia with the preceding `φθορᾷ αὐτῶν` ("in their corruption they too shall be corrupted")
+**How they differ:**
 
-**Full text per tradition:**
-- **SBLGNT:** `οὗτοι δέ, ὡς ἄλογα ζῷα γεγεννημένα φυσικὰ εἰς ἅλωσιν καὶ φθοράν, ἐν οἷς ἀγνοοῦσιν βλασφημοῦντες, ἐν τῇ φθορᾷ αὐτῶν καὶ φθαρήσονται,`
-- **N1904:** = SBLGNT
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** `οὗτοι δέ, ὡς ἄλογα ζῷα φυσικὰ γεγενημένα εἰς ἅλωσιν καὶ φθοράν, ἐν οἷς ἀγνοοῦσιν βλασφημοῦντες, ἐν τῇ φθορᾷ αὐτῶν καταφθαρήσονται,`
+1. *word order + single-letter spelling (double-ν vs single-ν on perfect stem of γεννάω vs γίνομαι root).* both RP differences are minor; the spelling change may reflect variant stem perception — `γεννάω` (to beget) vs `γίνομαι` (to become/be born); word order is stylistic
+2. *lexical / compound — RP compresses "and will be destroyed" into a single compound future "will be utterly destroyed".* RP's compound intensifies the destruction; the eclectic reading preserves the paronomasia with the preceding `φθορᾷ αὐτῶν` ("in their corruption they too shall be corrupted")
+
+**Reference text (SBLGNT):** `οὗτοι δέ, ὡς ἄλογα ζῷα γεγεννημένα φυσικὰ εἰς ἅλωσιν καὶ φθοράν, ἐν οἷς ἀγνοοῦσιν βλασφημοῦντες, ἐν τῇ φθορᾷ αὐτῶν καὶ φθαρήσονται,`
 
 **Morphology (from N1904):**
 
@@ -603,26 +604,24 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.13
 
-**Variants detected: 2**
+**2 variants across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: opening participle*
-- SBLGNT, NA28, WH, N1904: `ἀδικούμενοι` (V-PPP-NPM of ἀδικέω — "being wronged" or deponentially "receiving wrong") + `μισθὸν ἀδικίας` ("the reward of unrighteousness")
-- RP, Treg: `κομιούμενοι` (V-FMP-NPM of κομίζω — "about to receive/will receive for themselves") + `μισθὸν ἀδικίας`
-- Nature: lexical substitution — different verbs; `κομιούμενοι` is paleographically close but semantically clearer
-- Significance: substantive. Eclectic reading creates oxymoron / paronomasia: "being wronged [with] the wage of wrongdoing" — i.e., they will be repaid with the very evil they do. RP/Treg reading is smoother: "receiving the wage of unrighteousness" (cf. Acts 1:18). The `ἀδικ-/ἀδικ-` rhetorical mirror in eclectic text is widely regarded as the harder and therefore likely original reading
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> opening participle</td><td><code>ἀδικούμενοι</code></td><td><code>ἀδικούμενοι</code></td><td><code>ἀδικούμενοι</code></td><td><code>ἀδικούμενοι</code></td><td><strong><code>κομιούμενοι</code></strong></td></tr>
+<tr><td><strong>2.</strong> <code>ἐν ταῖς ___ αὐτῶν</code> phrase mid-verse</td><td><code>ἀπάταις</code></td><td><code>ἀπάταις</code></td><td><code>ἀπάταις</code></td><td><code>ἀπάταις</code></td><td><code>ἀπάταις</code></td></tr>
+</tbody>
+</table>
+</div>
 
-**⟨Variant 2⟩** *Location: `ἐν ταῖς ___ αὐτῶν` phrase mid-verse*
-- SBLGNT, N1904, NA28, WH, RP: `ἀπάταις` (N-DPF of ἀπάτη, 539 — "deceits/deceptions")
-- Treg: `ἀγάπαις` (N-DPF of ἀγάπη, 26 — "love-feasts"; cf. Jude 12)
-- Nature: lexical; single-consonant substitution (π/γ — likely very early corruption)
-- Significance: substantive. `ἀγάπαις` harmonises to Jude 12 (love-feasts as setting for the false teachers' gluttony); `ἀπάταις` retains 2 Peter's distinctive deceit-language. This is a rare case where N1904 sides with SBL/NA28/WH/RP *against* Treg
+**How they differ:**
 
-**Full text per tradition:**
-- **SBLGNT:** `ἀδικούμενοι μισθὸν ἀδικίας· ἡδονὴν ἡγούμενοι τὴν ἐν ἡμέρᾳ τρυφήν, σπίλοι καὶ μῶμοι ἐντρυφῶντες ἐν ταῖς ἀπάταις αὐτῶν συνευωχούμενοι ὑμῖν,`
-- **N1904:** = SBLGNT
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** `κομιούμενοι μισθὸν ἀδικίας, ἡδονὴν ἡγούμενοι τὴν ἐν ἡμέρᾳ τρυφήν, σπίλοι καὶ μῶμοι ἐντρυφῶντες ἐν ταῖς ἀπάταις αὐτῶν συνευωχούμενοι ὑμῖν,`
+1. *lexical substitution — different verbs; `κομιούμενοι` is paleographically close but semantically clearer.* substantive. Eclectic reading creates oxymoron / paronomasia: "being wronged [with] the wage of wrongdoing" — i.e., they will be repaid with the very evil they do. RP/Treg reading is smoother: "receiving the wage of unrighteousness" (cf. Acts 1:18). The `ἀδικ-/ἀδικ-` rhetorical mirror in eclectic text is widely regarded as the harder and therefore likely original reading
+2. *lexical; single-consonant substitution (π/γ — likely very early corruption).* substantive. `ἀγάπαις` harmonises to Jude 12 (love-feasts as setting for the false teachers' gluttony); `ἀπάταις` retains 2 Peter's distinctive deceit-language. This is a rare case where N1904 sides with SBL/NA28/WH/RP *against* Treg
+
+**Reference text (SBLGNT):** `ἀδικούμενοι μισθὸν ἀδικίας· ἡδονὴν ἡγούμενοι τὴν ἐν ἡμέρᾳ τρυφήν, σπίλοι καὶ μῶμοι ἐντρυφῶντες ἐν ταῖς ἀπάταις αὐτῶν συνευωχούμενοι ὑμῖν,`
 
 **Morphology (from N1904):**
 
@@ -658,20 +657,22 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.14
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: adjective modifying `ἁμαρτίας`*
-- SBLGNT, N1904, Treg, NA28, RP: `ἀκαταπαύστους` (from ἀκατάπαυστος 180 — "unceasing")
-- WH: `ἀκαταπάστους` (same sense; short one μ/π — orthographic variant with lost consonant)
-- Nature: spelling (omission of internal `αυ`/consonant); WH reflects an attested minuscule spelling
-- Significance: no semantic change; both forms were recognized in antiquity; WH follows minority orthography of its preferred majuscules
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> adjective modifying <code>ἁμαρτίας</code></td><td><code>ἀκαταπαύστους</code></td><td><code>ἀκαταπαύστους</code></td><td><code>ἀκαταπαύστους</code></td><td><strong><code>ἀκαταπάστους</code></strong></td><td><code>ἀκαταπαύστους</code></td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `ὀφθαλμοὺς ἔχοντες μεστοὺς μοιχαλίδος καὶ ἀκαταπαύστους ἁμαρτίας, δελεάζοντες ψυχὰς ἀστηρίκτους, καρδίαν γεγυμνασμένην πλεονεξίας ἔχοντες, κατάρας τέκνα,`
-- **N1904:** = SBLGNT (N1904 punctuates with `·` at end: `τέκνα·`)
-- **NA28:** = SBLGNT
-- **WH:** `ὀφθαλμοὺς ἔχοντες μεστοὺς μοιχαλίδος καὶ ἀκαταπάστους ἁμαρτίας, δελεάζοντες ψυχὰς ἀστηρίκτους, καρδίαν γεγυμνασμένην πλεονεξίας ἔχοντες, κατάρας τέκνα,`
-- **RP:** = SBLGNT
+**How they differ:**
+
+1. *spelling (omission of internal `αυ`/consonant); WH reflects an attested minuscule spelling.* no semantic change; both forms were recognized in antiquity; WH follows minority orthography of its preferred majuscules
+
+**Reference text (SBLGNT):** `ὀφθαλμοὺς ἔχοντες μεστοὺς μοιχαλίδος καὶ ἀκαταπαύστους ἁμαρτίας, δελεάζοντες ψυχὰς ἀστηρίκτους, καρδίαν γεγυμνασμένην πλεονεξίας ἔχοντες, κατάρας τέκνα,`
 
 **Morphology (from N1904):**
 
@@ -705,26 +706,24 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.15
 
-**Variants detected: 2**
+**2 variants across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: opening participle*
-- SBLGNT, Treg, NA28, RP: `καταλιπόντες` (V-2AAP-NPM of καταλείπω — aorist, "having forsaken")
-- WH, N1904, NA27: `καταλείποντες` (V-PAP-NPM — present, "forsaking")
-- Nature: tense (aorist → present) of the same verb
-- Significance: aorist views the forsaking as a completed past act; present portrays it as ongoing conduct. The double-ει spelling is the classical present-stem; single-ι with ο is the aorist-stem. Only one letter differs at the critical juncture
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> opening participle</td><td><code>καταλιπόντες</code></td><td><strong><code>καταλείποντες</code></strong></td><td><code>καταλιπόντες</code></td><td><strong><code>καταλείποντες</code></strong></td><td><code>καταλιπόντες</code></td></tr>
+<tr><td><strong>2.</strong> Balaam&#x27;s patronymic</td><td><code>Βοσὸρ</code></td><td><strong><code>Βεὼρ</code></strong></td><td><code>Βοσὸρ</code></td><td><strong><code>Βεὼρ</code></strong></td><td><code>Βοσὸρ</code></td></tr>
+</tbody>
+</table>
+</div>
 
-**⟨Variant 2⟩** *Location: Balaam's patronymic*
-- SBLGNT, Treg, NA28, RP: `Βοσὸρ` (N-PRI — "[of] Bosor"; Greek transliteration from Syriac-influenced tradition)
-- WH, N1904: `Βεὼρ` (N-PRI — "[of] Beor"; faithful transliteration of Hebrew בְּעוֹר, matching LXX Num 22:5)
-- Nature: onomastic / lexical — two distinct transliterations of the same Hebrew name
-- Significance: substantive textually but not theologically. `Βοσόρ` is a well-attested post-classical Greek form; `Βεώρ` is the Septuagintal/OT form. The alternation may reflect an Aramaic mediation of the Hebrew β (b→β + Hebrew ʿayin merging with sibilant)
+**How they differ:**
 
-**Full text per tradition:**
-- **SBLGNT:** `καταλιπόντες εὐθεῖαν ὁδὸν ἐπλανήθησαν, ἐξακολουθήσαντες τῇ ὁδῷ τοῦ Βαλαὰμ τοῦ Βοσὸρ ὃς μισθὸν ἀδικίας ἠγάπησεν`
-- **N1904:** `καταλειπόντες εὐθεῖαν ὁδὸν ἐπλανήθησαν, ἐξακολουθήσαντες τῇ ὁδῷ τοῦ Βαλαὰμ τοῦ Βεώρ, ὃς μισθὸν ἀδικίας ἠγάπησεν,`
-- **NA28:** = SBLGNT
-- **WH:** `καταλείποντες εὐθεῖαν ὁδὸν ἐπλανήθησαν, ἐξακολουθήσαντες τῇ ὁδῷ τοῦ Βαλαὰμ τοῦ Βεὼρ ὃς μισθὸν ἀδικίας ἠγάπησεν`
-- **RP:** = SBLGNT
+1. *tense (aorist → present) of the same verb.* aorist views the forsaking as a completed past act; present portrays it as ongoing conduct. The double-ει spelling is the classical present-stem; single-ι with ο is the aorist-stem. Only one letter differs at the critical juncture
+2. *onomastic / lexical — two distinct transliterations of the same Hebrew name.* substantive textually but not theologically. `Βοσόρ` is a well-attested post-classical Greek form; `Βεώρ` is the Septuagintal/OT form. The alternation may reflect an Aramaic mediation of the Hebrew β (b→β + Hebrew ʿayin merging with sibilant)
+
+**Reference text (SBLGNT):** `καταλιπόντες εὐθεῖαν ὁδὸν ἐπλανήθησαν, ἐξακολουθήσαντες τῇ ὁδῷ τοῦ Βαλαὰμ τοῦ Βοσὸρ ὃς μισθὸν ἀδικίας ἠγάπησεν`
 
 **Morphology (from N1904, `καταλειπόντες`/`Βεώρ` readings):**
 
@@ -755,7 +754,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.16
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `ἔλεγξιν δὲ ἔσχεν ἰδίας παρανομίας· ὑποζύγιον ἄφωνον ἐν ἀνθρώπου φωνῇ φθεγξάμενον ἐκώλυσεν τὴν τοῦ προφήτου παραφρονίαν.`
 
@@ -791,26 +790,24 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.17
 
-**Variants detected: 2**
+**2 variants across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: second element of the nature imagery*
-- SBLGNT, N1904, Treg, NA28, WH: `καὶ ὁμίχλαι ὑπὸ λαίλαπος ἐλαυνόμεναι` ("and mists driven by a storm")
-- RP: `νεφέλαι ὑπὸ λαίλαπος ἐλαυνόμεναι` (replaces `καὶ ὁμίχλαι` with `νεφέλαι` — "clouds")
-- Nature: lexical substitution + loss of conjunction — ὁμίχλη (mist/fog) vs νεφέλη (cloud)
-- Significance: substantive image-shift. "Mists driven by storm" emphasizes insubstantiality; "clouds" (RP) matches Jude 12's `νεφέλαι ἄνυδροι` and is likely a harmonization to Jude. `ὁμίχλη` is a NT hapax and the more striking reading
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> second element of the nature imagery</td><td><code>καὶ ὁμίχλαι ὑπὸ λαίλαπος ἐλαυνόμεναι</code></td><td><code>καὶ ὁμίχλαι ὑπὸ λαίλαπος ἐλαυνόμεναι</code></td><td><code>καὶ ὁμίχλαι ὑπὸ λαίλαπος ἐλαυνόμεναι</code></td><td><code>καὶ ὁμίχλαι ὑπὸ λαίλαπος ἐλαυνόμεναι</code></td><td><strong><code>νεφέλαι ὑπὸ λαίλαπος ἐλαυνόμεναι</code></strong></td></tr>
+<tr><td><strong>2.</strong> end of verse, after <code>σκότους</code></td><td><code>ὁ ζόφος τοῦ σκότους τετήρηται</code></td><td><code>ὁ ζόφος τοῦ σκότους τετήρηται</code></td><td><code>ὁ ζόφος τοῦ σκότους τετήρηται</code></td><td><code>ὁ ζόφος τοῦ σκότους τετήρηται</code></td><td><strong><code>ὁ ζόφος τοῦ σκότους εἰς αἰῶνα τετήρηται</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**⟨Variant 2⟩** *Location: end of verse, after `σκότους`*
-- SBLGNT, N1904, Treg, NA28, WH: `ὁ ζόφος τοῦ σκότους τετήρηται` (ends at "has been kept")
-- RP: `ὁ ζόφος τοῦ σκότους εἰς αἰῶνα τετήρηται` (adds `εἰς αἰῶνα` — "forever")
-- Nature: addition of eschatological qualifier
-- Significance: RP's longer reading specifies the duration ("forever"); may be a harmonizing pickup from Jude 13 `εἰς αἰῶνα` in a nearly identical sentence
+**How they differ:**
 
-**Full text per tradition:**
-- **SBLGNT:** `Οὗτοί εἰσιν πηγαὶ ἄνυδροι καὶ ὁμίχλαι ὑπὸ λαίλαπος ἐλαυνόμεναι, οἷς ὁ ζόφος τοῦ σκότους τετήρηται.`
-- **N1904:** = SBLGNT
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** `Οὗτοί εἰσιν πηγαὶ ἄνυδροι, νεφέλαι ὑπὸ λαίλαπος ἐλαυνόμεναι, οἷς ὁ ζόφος τοῦ σκότους εἰς αἰῶνα τετήρηται.`
+1. *lexical substitution + loss of conjunction — ὁμίχλη (mist/fog) vs νεφέλη (cloud).* substantive image-shift. "Mists driven by storm" emphasizes insubstantiality; "clouds" (RP) matches Jude 12's `νεφέλαι ἄνυδροι` and is likely a harmonization to Jude. `ὁμίχλη` is a NT hapax and the more striking reading
+2. *addition of eschatological qualifier.* RP's longer reading specifies the duration ("forever"); may be a harmonizing pickup from Jude 13 `εἰς αἰῶνα` in a nearly identical sentence
+
+**Reference text (SBLGNT):** `Οὗτοί εἰσιν πηγαὶ ἄνυδροι καὶ ὁμίχλαι ὑπὸ λαίλαπος ἐλαυνόμεναι, οἷς ὁ ζόφος τοῦ σκότους τετήρηται.`
 
 **Morphology (from N1904):**
 
@@ -842,26 +839,24 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.18
 
-**Variants detected: 2**
+**2 variants across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: adverb before `ἀποφεύγοντας`*
-- SBLGNT, N1904, Treg, WH, NA27: `ὀλίγως` (ADV — "barely, scarcely")
-- NA28, RP: `ὄντως` (ADV — "really, truly, actually")
-- Nature: lexical substitution — two distinct adverbs differing by `λ`/`ντ` cluster
-- Significance: substantive. `ὀλίγως` describes those who have only just/barely escaped (implying recent, precarious conversion); `ὄντως` describes those who have genuinely/really escaped (affirming completeness of prior escape). NA28 here diverges from NA27 and adopts the RP reading; a notable post-2012 revision
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> adverb before <code>ἀποφεύγοντας</code></td><td><code>ὀλίγως</code></td><td><code>ὀλίγως</code></td><td><strong><code>ὄντως</code></strong></td><td><code>ὀλίγως</code></td><td><strong><code>ὄντως</code></strong></td></tr>
+<tr><td><strong>2.</strong> participle paired with above adverb</td><td><code>ἀποφεύγοντας</code></td><td><code>ἀποφεύγοντας</code></td><td><code>ἀποφεύγοντας</code></td><td><code>ἀποφεύγοντας</code></td><td><strong><code>ἀποφυγόντας</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**⟨Variant 2⟩** *Location: participle paired with above adverb*
-- SBLGNT, N1904, Treg, NA28, WH: `ἀποφεύγοντας` (V-PAP-APM — present active participle, "fleeing")
-- RP: `ἀποφυγόντας` (V-2AAP-APM — aorist active participle, "having fled")
-- Nature: tense (present → aorist) of same verb
-- Significance: present portrays ongoing escape in process; aorist portrays escape as completed event. Pairs meaningfully with the adverb choice — "barely escaping" (ongoing) vs "truly having escaped" (completed). The RP pair (`ὄντως` + aorist) and the SBL pair (`ὀλίγως` + present) form internally consistent readings
+**How they differ:**
 
-**Full text per tradition:**
-- **SBLGNT:** `ὑπέρογκα γὰρ ματαιότητος φθεγγόμενοι δελεάζουσιν ἐν ἐπιθυμίαις σαρκὸς ἀσελγείαις τοὺς ὀλίγως ἀποφεύγοντας τοὺς ἐν πλάνῃ ἀναστρεφομένους,`
-- **N1904:** = SBLGNT
-- **NA28:** `ὑπέρογκα γὰρ ματαιότητος φθεγγόμενοι δελεάζουσιν ἐν ἐπιθυμίαις σαρκὸς ἀσελγείαις τοὺς ὄντως ἀποφεύγοντας τοὺς ἐν πλάνῃ ἀναστρεφομένους,`
-- **WH:** = SBLGNT
-- **RP:** `ὑπέρογκα γὰρ ματαιότητος φθεγγόμενοι δελεάζουσιν ἐν ἐπιθυμίαις σαρκὸς ἀσελγείαις τοὺς ὄντως ἀποφυγόντας τοὺς ἐν πλάνῃ ἀναστρεφομένους,`
+1. *lexical substitution — two distinct adverbs differing by `λ`/`ντ` cluster.* substantive. `ὀλίγως` describes those who have only just/barely escaped (implying recent, precarious conversion); `ὄντως` describes those who have genuinely/really escaped (affirming completeness of prior escape). NA28 here diverges from NA27 and adopts the RP reading; a notable post-2012 revision
+2. *tense (present → aorist) of same verb.* present portrays ongoing escape in process; aorist portrays escape as completed event. Pairs meaningfully with the adverb choice — "barely escaping" (ongoing) vs "truly having escaped" (completed). The RP pair (`ὄντως` + aorist) and the SBL pair (`ὀλίγως` + present) form internally consistent readings
+
+**Reference text (SBLGNT):** `ὑπέρογκα γὰρ ματαιότητος φθεγγόμενοι δελεάζουσιν ἐν ἐπιθυμίαις σαρκὸς ἀσελγείαις τοὺς ὀλίγως ἀποφεύγοντας τοὺς ἐν πλάνῃ ἀναστρεφομένους,`
 
 **Morphology (from N1904, `ὀλίγως ἀποφεύγοντας` reading):**
 
@@ -894,24 +889,22 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.19
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: between `τούτῳ` and `δεδούλωται`*
-- SBLGNT, N1904, Treg, RP: `τούτῳ καὶ δεδούλωται` (with `καί` — "to this one he *also* is enslaved")
-- WH, NA28: `τούτῳ δεδούλωται` (omits `καί`)
-- Nature: presence / absence of emphatic conjunction
-- Significance: with `καί`, the statement is emphatic/additive ("by *this* is he also enslaved"); without, the statement is bare ("by this he is enslaved"). No change in essential meaning
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> between <code>τούτῳ</code> and <code>δεδούλωται</code></td><td><code>τούτῳ καὶ δεδούλωται</code></td><td><code>τούτῳ καὶ δεδούλωται</code></td><td><strong><code>τούτῳ δεδούλωται</code></strong></td><td><strong><code>τούτῳ δεδούλωται</code></strong></td><td><code>τούτῳ καὶ δεδούλωται</code></td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `ἐλευθερίαν αὐτοῖς ἐπαγγελλόμενοι, αὐτοὶ δοῦλοι ὑπάρχοντες τῆς φθορᾶς· ᾧ γάρ τις ἥττηται, τούτῳ καὶ δεδούλωται.`
+**How they differ:**
 
-*(Note: the SBL apparatus entry reads `καὶ Treg RP ] – WH NA28`, placing SBLGNT's main text with Treg/RP by including `καί`.)*
+1. *presence / absence of emphatic conjunction.* with `καί`, the statement is emphatic/additive ("by *this* is he also enslaved"); without, the statement is bare ("by this he is enslaved"). No change in essential meaning
 
-Actually rechecking: SBLGNT uses `⸀καὶ` before δεδούλωται — the apparatus indicates Treg/RP include καί; WH and NA28 omit. SBLGNT's main-text choice must be checked against its own rendering; on examination SBLGNT prints `τούτῳ ⸀καὶ δεδούλωται` meaning the lemma-position `καί` is the SBL reading, with WH/NA28 omitting.
-- **N1904:** = SBLGNT (includes `καί`)
-- **NA28:** `ἐλευθερίαν αὐτοῖς ἐπαγγελλόμενοι, αὐτοὶ δοῦλοι ὑπάρχοντες τῆς φθορᾶς· ᾧ γάρ τις ἥττηται, τούτῳ δεδούλωται.`
-- **WH:** = NA28 (omits `καί`)
-- **RP:** = SBLGNT
+**Reference text (SBLGNT):** `ἐλευθερίαν αὐτοῖς ἐπαγγελλόμενοι, αὐτοὶ δοῦλοι ὑπάρχοντες τῆς φθορᾶς· ᾧ γάρ τις ἥττηται, τούτῳ καὶ δεδούλωται.`
 
 **Morphology (from N1904):**
 
@@ -942,7 +935,9 @@ Actually rechecking: SBLGNT uses `⸀καὶ` before δεδούλωται — th
 
 ### v.20
 
-**All sources agree.** *(N1904 capitalizes `Κυρίου`, `Σωτῆρος`, `Ἰησοῦ`, `Χριστοῦ`; NA27 had additional `ἡμῶν` after `κυρίου` which NA28 dropped — now all five editions align without `ἡμῶν`)*
+**All 5 witnesses agree.**
+
+*N1904 capitalizes `Κυρίου`, `Σωτῆρος`, `Ἰησοῦ`, `Χριστοῦ`; NA27 had additional `ἡμῶν` after `κυρίου` which NA28 dropped — now all five editions align without `ἡμῶν`*
 
 **Text:** `εἰ γὰρ ἀποφυγόντες τὰ μιάσματα τοῦ κόσμου ἐν ἐπιγνώσει τοῦ κυρίου καὶ σωτῆρος Ἰησοῦ Χριστοῦ τούτοις δὲ πάλιν ἐμπλακέντες ἡττῶνται, γέγονεν αὐτοῖς τὰ ἔσχατα χείρονα τῶν πρώτων.`
 
@@ -987,20 +982,22 @@ Actually rechecking: SBLGNT uses `⸀καὶ` before δεδούλωται — th
 
 ### v.21
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: infinitive after `ἐπιγνοῦσιν`*
-- SBLGNT, N1904, Treg, NA28, WH: `ὑποστρέψαι` (V-AAN of ὑποστρέφω — "to turn back, return")
-- RP: `ἐπιστρέψαι` (V-AAN of ἐπιστρέφω — "to turn upon, turn around")
-- Nature: lexical substitution — prefix change (ὑπο- → ἐπι-); both are compounds of στρέφω
-- Significance: substantive prefix-nuance. `ὑποστρέφω` emphasises retreat/going back; `ἐπιστρέφω` emphasises reorientation (and is the standard NT term for religious conversion/turning). RP's `ἐπιστρέψαι` ironically uses the conversion-verb for the act of apostasy — the "turning back" that is a backward conversion
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> infinitive after <code>ἐπιγνοῦσιν</code></td><td><code>ὑποστρέψαι</code></td><td><code>ὑποστρέψαι</code></td><td><code>ὑποστρέψαι</code></td><td><code>ὑποστρέψαι</code></td><td><strong><code>ἐπιστρέψαι</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `κρεῖττον γὰρ ἦν αὐτοῖς μὴ ἐπεγνωκέναι τὴν ὁδὸν τῆς δικαιοσύνης ἢ ἐπιγνοῦσιν ὑποστρέψαι ἐκ τῆς παραδοθείσης αὐτοῖς ἁγίας ἐντολῆς·`
-- **N1904:** = SBLGNT
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** `κρεῖττον γὰρ ἦν αὐτοῖς μὴ ἐπεγνωκέναι τὴν ὁδὸν τῆς δικαιοσύνης, ἢ ἐπιγνοῦσιν ἐπιστρέψαι ἐκ τῆς παραδοθείσης αὐτοῖς ἁγίας ἐντολῆς.`
+**How they differ:**
+
+1. *lexical substitution — prefix change (ὑπο- → ἐπι-); both are compounds of στρέφω.* substantive prefix-nuance. `ὑποστρέφω` emphasises retreat/going back; `ἐπιστρέφω` emphasises reorientation (and is the standard NT term for religious conversion/turning). RP's `ἐπιστρέψαι` ironically uses the conversion-verb for the act of apostasy — the "turning back" that is a backward conversion
+
+**Reference text (SBLGNT):** `κρεῖττον γὰρ ἦν αὐτοῖς μὴ ἐπεγνωκέναι τὴν ὁδὸν τῆς δικαιοσύνης ἢ ἐπιγνοῦσιν ὑποστρέψαι ἐκ τῆς παραδοθείσης αὐτοῖς ἁγίας ἐντολῆς·`
 
 **Morphology (from N1904):**
 
@@ -1035,26 +1032,24 @@ Actually rechecking: SBLGNT uses `⸀καὶ` before δεδούλωται — th
 
 ### v.22
 
-**Variants detected: 2**
+**2 variants across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: opening verb phrase*
-- SBLGNT, N1904, Treg, NA28, WH: `συμβέβηκεν αὐτοῖς` (without `δέ`)
-- RP: `συμβέβηκεν δὲ αὐτοῖς` (adds postpositive `δέ`)
-- Nature: presence / absence of connective particle
-- Significance: minor discourse-marker; RP's `δέ` creates mild transition, eclectic reading asyndetic
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> opening verb phrase</td><td><code>συμβέβηκεν αὐτοῖς</code></td><td><code>συμβέβηκεν αὐτοῖς</code></td><td><code>συμβέβηκεν αὐτοῖς</code></td><td><code>συμβέβηκεν αὐτοῖς</code></td><td><strong><code>συμβέβηκεν δὲ αὐτοῖς</code></strong></td></tr>
+<tr><td><strong>2.</strong> final noun after <code>εἰς</code></td><td><code>κυλισμὸν βορβόρου</code></td><td><code>κυλισμὸν βορβόρου</code></td><td><code>κυλισμὸν βορβόρου</code></td><td><code>κυλισμὸν βορβόρου</code></td><td><strong><code>κύλισμα βορβόρου</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**⟨Variant 2⟩** *Location: final noun after `εἰς`*
-- SBLGNT, N1904, Treg, NA28, WH: `κυλισμὸν βορβόρου` (N-ASM — "rolling place / wallowing")
-- RP: `κύλισμα βορβόρου` (N-ASN — "that which is wallowed in, wallow[-ing place]")
-- Nature: lexical / morphological — two different nouns from same root (κυλίω); masculine -μος vs neuter -μα
-- Significance: minimal semantic difference — both refer to the sow's wallowing; `κύλισμα` slightly emphasizes the resultant mire, `κυλισμός` the action of wallowing. Both are NT hapax candidates depending on edition
+**How they differ:**
 
-**Full text per tradition:**
-- **SBLGNT:** `συμβέβηκεν αὐτοῖς τὸ τῆς ἀληθοῦς παροιμίας· Κύων ἐπιστρέψας ἐπὶ τὸ ἴδιον ἐξέραμα, καί· Ὗς λουσαμένη εἰς κυλισμὸν βορβόρου.`
-- **N1904:** = SBLGNT
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** `συμβέβηκεν δὲ αὐτοῖς τὸ τῆς ἀληθοῦς παροιμίας, Κύων ἐπιστρέψας ἐπὶ τὸ ἴδιον ἐξέραμα, καί, Ὗς λουσαμένη εἰς κύλισμα βορβόρου.`
+1. *presence / absence of connective particle.* minor discourse-marker; RP's `δέ` creates mild transition, eclectic reading asyndetic
+2. *lexical / morphological — two different nouns from same root (κυλίω); masculine -μος vs neuter -μα.* minimal semantic difference — both refer to the sow's wallowing; `κύλισμα` slightly emphasizes the resultant mire, `κυλισμός` the action of wallowing. Both are NT hapax candidates depending on edition
+
+**Reference text (SBLGNT):** `συμβέβηκεν αὐτοῖς τὸ τῆς ἀληθοῦς παροιμίας· Κύων ἐπιστρέψας ἐπὶ τὸ ἴδιον ἐξέραμα, καί· Ὗς λουσαμένη εἰς κυλισμὸν βορβόρου.`
 
 **Morphology (from N1904):**
 
@@ -1127,3 +1122,5 @@ Chapter 2 is unusually rich in hapax legomena (25+), consistent with its heighte
 ---
 
 *End of Section 1 — Multi-Source Original Greek Text Variants, 2 Peter 2*
+
+---

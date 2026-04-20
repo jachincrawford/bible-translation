@@ -86,11 +86,13 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ## Verse-by-Verse
 
+> Each verse below is either stated as a single agreed text (all five witnesses read the same) or presented as a variant table. In the table, each row is one textual variant in the verse; cells in **bold** differ from the majority reading. Rows where all five witnesses agree are collapsed out — stated implicitly by the reference text shown beneath the table.
+
 ---
 
 ### v.1
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `Ταύτην ἤδη, ἀγαπητοί, δευτέραν ὑμῖν γράφω ἐπιστολήν, ἐν αἷς διεγείρω ὑμῶν ἐν ὑπομνήσει τὴν εἰλικρινῆ διάνοιαν,`
 
@@ -125,7 +127,9 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.2
 
-**All sources agree.** *(N1904 capitalizes `Κυρίου`, `Σωτῆρος`)*
+**All 5 witnesses agree.**
+
+*N1904 capitalizes `Κυρίου`, `Σωτῆρος`*
 
 **Text:** `μνησθῆναι τῶν προειρημένων ῥημάτων ὑπὸ τῶν ἁγίων προφητῶν καὶ τῆς τῶν ἀποστόλων ὑμῶν ἐντολῆς τοῦ κυρίου καὶ σωτῆρος·`
 
@@ -161,26 +165,24 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.3
 
-**Variants detected: 2**
+**2 variants across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: after `ἐπʼ` (in eschatological formula "in the last days")*
-- SBLGNT, N1904, NA28, WH: `ἐσχάτων` (A-GPN — genitive plural "last [days]")
-- RP: `ἐσχάτου` (A-GSM/N — genitive singular)
-- Nature: case/number difference (plural → singular)
-- Significance: minor — both yield "last of days"; the Byzantine singular follows a well-attested Koine idiom; the plural matches LXX phraseology
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> after <code>ἐπʼ</code> (in eschatological formula &quot;in the last days&quot;)</td><td><code>ἐσχάτων</code></td><td><code>ἐσχάτων</code></td><td><code>ἐσχάτων</code></td><td><code>ἐσχάτων</code></td><td><strong><code>ἐσχάτου</code></strong></td></tr>
+<tr><td><strong>2.</strong> prepositional phrase preceding <code>ἐμπαῖκται</code></td><td><code>ἐν ἐμπαιγμονῇ ἐμπαῖκται</code></td><td><code>ἐν ἐμπαιγμονῇ ἐμπαῖκται</code></td><td><code>ἐν ἐμπαιγμονῇ ἐμπαῖκται</code></td><td><code>ἐν ἐμπαιγμονῇ ἐμπαῖκται</code></td><td><strong><code>omits `ἐν ἐμπαιγμονῇ`; reads simply `ἐμπαῖκται`</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**⟨Variant 2⟩** *Location: prepositional phrase preceding `ἐμπαῖκται`*
-- SBLGNT, N1904, NA28, WH: `ἐν ἐμπαιγμονῇ ἐμπαῖκται` ("in mockery mockers")
-- RP: omits `ἐν ἐμπαιγμονῇ`; reads simply `ἐμπαῖκται`
-- Nature: omission (two-word phrase absent in Byzantine)
-- Significance: substantive. The eclectic reading produces a Hebraic cognate intensification ("mocking mockers") — a NT hapax `ἐμπαιγμονή` (1701); RP omits the intensifier
+**How they differ:**
 
-**Full text per tradition:**
-- **SBLGNT:** `τοῦτο πρῶτον γινώσκοντες ὅτι ἐλεύσονται ἐπʼ ἐσχάτων τῶν ἡμερῶν ἐν ἐμπαιγμονῇ ἐμπαῖκται κατὰ τὰς ἰδίας ἐπιθυμίας αὐτῶν πορευόμενοι`
-- **N1904:** = SBLGNT
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** `τοῦτο πρῶτον γινώσκοντες ὅτι ἐλεύσονται ἐπʼ ἐσχάτου τῶν ἡμερῶν ἐμπαῖκται κατὰ τὰς ἰδίας ἐπιθυμίας αὐτῶν πορευόμενοι`
+1. *case/number difference (plural → singular).* minor — both yield "last of days"; the Byzantine singular follows a well-attested Koine idiom; the plural matches LXX phraseology
+2. *omission (two-word phrase absent in Byzantine).* substantive. The eclectic reading produces a Hebraic cognate intensification ("mocking mockers") — a NT hapax `ἐμπαιγμονή` (1701); RP omits the intensifier
+
+**Reference text (SBLGNT):** `τοῦτο πρῶτον γινώσκοντες ὅτι ἐλεύσονται ἐπʼ ἐσχάτων τῶν ἡμερῶν ἐν ἐμπαιγμονῇ ἐμπαῖκται κατὰ τὰς ἰδίας ἐπιθυμίας αὐτῶν πορευόμενοι`
 
 **Morphology (from N1904, with `ἐν ἐμπαιγμονῇ` present):**
 
@@ -214,7 +216,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.4
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `καὶ λέγοντες· Ποῦ ἐστιν ἡ ἐπαγγελία τῆς παρουσίας αὐτοῦ; ἀφʼ ἧς γὰρ οἱ πατέρες ἐκοιμήθησαν, πάντα οὕτως διαμένει ἀπʼ ἀρχῆς κτίσεως.`
 
@@ -253,7 +255,9 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.5
 
-**All sources agree.** *(N1904 capitalizes `Θεοῦ`)*
+**All 5 witnesses agree.**
+
+*N1904 capitalizes `Θεοῦ`*
 
 **Text:** `λανθάνει γὰρ αὐτοὺς τοῦτο θέλοντας ὅτι οὐρανοὶ ἦσαν ἔκπαλαι καὶ γῆ ἐξ ὕδατος καὶ διʼ ὕδατος συνεστῶσα τῷ τοῦ θεοῦ λόγῳ,`
 
@@ -293,20 +297,22 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.6
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: opening prepositional phrase*
-- SBLGNT, N1904, WH, RP: `διʼ ὧν` (preposition + relative, genitive plural — "through which [things]")
-- NA28: `διʼ ὃν` (preposition + relative, accusative singular masculine — "because of whom/which")
-- Nature: relative-pronoun case/number change (gen.pl. → acc.sg.m.)
-- Significance: substantive. `διʼ ὧν` (gen.pl.) most naturally refers back to both water *and* word (the twin agents of v.5); NA28's `διʼ ὃν` (acc.sg.m.) narrows the antecedent to `λόγῳ` (the word). NA28 prints a conjectural emendation of Bruce Metzger's committee; older editions (including NA27) agree with SBL/WH/RP
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> opening prepositional phrase</td><td><code>διʼ ὧν</code></td><td><code>διʼ ὧν</code></td><td><strong><code>διʼ ὃν</code></strong></td><td><code>διʼ ὧν</code></td><td><code>διʼ ὧν</code></td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `διʼ ὧν ὁ τότε κόσμος ὕδατι κατακλυσθεὶς ἀπώλετο·`
-- **N1904:** = SBLGNT
-- **NA28:** `διʼ ὃν ὁ τότε κόσμος ὕδατι κατακλυσθεὶς ἀπώλετο·`
-- **WH:** = SBLGNT
-- **RP:** = SBLGNT
+**How they differ:**
+
+1. *relative-pronoun case/number change (gen.pl. → acc.sg.m.).* substantive. `διʼ ὧν` (gen.pl.) most naturally refers back to both water *and* word (the twin agents of v.5); NA28's `διʼ ὃν` (acc.sg.m.) narrows the antecedent to `λόγῳ` (the word). NA28 prints a conjectural emendation of Bruce Metzger's committee; older editions (including NA27) agree with SBL/WH/RP
+
+**Reference text (SBLGNT):** `διʼ ὧν ὁ τότε κόσμος ὕδατι κατακλυσθεὶς ἀπώλετο·`
 
 **Morphology (from N1904):**
 
@@ -329,20 +335,22 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.7
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: modifier of `λόγῳ`*
-- SBLGNT, WH, NA28: `τῷ αὐτῷ λόγῳ` (article + `αὐτῷ` intensive dative — "by the same word")
-- N1904, RP: `τῷ αὐτοῦ λόγῳ` (article + `αὐτοῦ` possessive genitive — "by his word")
-- Nature: case shift (dative intensive → genitive possessive)
-- Significance: substantive. Eclectic reading emphasizes continuity with the creative word of v.5 (*the same* word). Byzantine/Tregelles/N1904 reading shifts to possessive — stressing divine ownership of the word. Peter's theological link to v.5 is sharper with `αὐτῷ`
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> modifier of <code>λόγῳ</code></td><td><code>τῷ αὐτῷ λόγῳ</code></td><td><strong><code>τῷ αὐτοῦ λόγῳ</code></strong></td><td><code>τῷ αὐτῷ λόγῳ</code></td><td><code>τῷ αὐτῷ λόγῳ</code></td><td><strong><code>τῷ αὐτοῦ λόγῳ</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `οἱ δὲ νῦν οὐρανοὶ καὶ ἡ γῆ τῷ αὐτῷ λόγῳ τεθησαυρισμένοι εἰσὶν πυρὶ τηρούμενοι εἰς ἡμέραν κρίσεως καὶ ἀπωλείας τῶν ἀσεβῶν ἀνθρώπων.`
-- **N1904:** `οἱ δὲ νῦν οὐρανοὶ καὶ ἡ γῆ τῷ αὐτοῦ λόγῳ τεθησαυρισμένοι εἰσὶν πυρὶ τηρούμενοι εἰς ἡμέραν κρίσεως καὶ ἀπωλείας τῶν ἀσεβῶν ἀνθρώπων.`
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** = N1904
+**How they differ:**
+
+1. *case shift (dative intensive → genitive possessive).* substantive. Eclectic reading emphasizes continuity with the creative word of v.5 (*the same* word). Byzantine/Tregelles/N1904 reading shifts to possessive — stressing divine ownership of the word. Peter's theological link to v.5 is sharper with `αὐτῷ`
+
+**Reference text (SBLGNT):** `οἱ δὲ νῦν οὐρανοὶ καὶ ἡ γῆ τῷ αὐτῷ λόγῳ τεθησαυρισμένοι εἰσὶν πυρὶ τηρούμενοι εἰς ἡμέραν κρίσεως καὶ ἀπωλείας τῶν ἀσεβῶν ἀνθρώπων.`
 
 **Morphology (from N1904, `αὐτοῦ` reading):**
 
@@ -382,7 +390,9 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.8
 
-**All sources agree.** *(N1904 capitalizes `Κυρίῳ`)*
+**All 5 witnesses agree.**
+
+*N1904 capitalizes `Κυρίῳ`*
 
 **Text:** `Ἓν δὲ τοῦτο μὴ λανθανέτω ὑμᾶς, ἀγαπητοί, ὅτι μία ἡμέρα παρὰ κυρίῳ ὡς χίλια ἔτη καὶ χίλια ἔτη ὡς ἡμέρα μία.`
 
@@ -421,26 +431,24 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.9
 
-**Variants detected: 2**
+**2 variants across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: subject of `βραδύνει`*
-- SBLGNT, N1904, NA28, WH: `κύριος` (anarthrous — "Lord")
-- RP: `ὁ κύριος` (articular — "the Lord")
-- Nature: presence/absence of article
-- Significance: minor. Without article, `κύριος` functions quasi-nominally (like a proper name, rendering "Lord"); with article, it refers to "the [aforementioned] Lord" with anaphoric force
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> subject of <code>βραδύνει</code></td><td><code>κύριος</code></td><td><code>κύριος</code></td><td><code>κύριος</code></td><td><code>κύριος</code></td><td><strong><code>ὁ κύριος</code></strong></td></tr>
+<tr><td><strong>2.</strong> object of <code>εἰς</code></td><td><code>εἰς ὑμᾶς</code></td><td><code>εἰς ὑμᾶς</code></td><td><code>εἰς ὑμᾶς</code></td><td><code>εἰς ὑμᾶς</code></td><td><strong><code>εἰς ἡμᾶς</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**⟨Variant 2⟩** *Location: object of `εἰς`*
-- SBLGNT, N1904, NA28, WH: `εἰς ὑμᾶς` (2nd person — "toward you")
-- RP: `εἰς ἡμᾶς` (1st person — "toward us")
-- Nature: pronoun person change (2nd → 1st plural)
-- Significance: substantive in pastoral tone. SBL/N1904 places the readers as recipients of divine patience; RP includes the author alongside the readers ("us"). Common scribal shift in a patristic era reading context
+**How they differ:**
 
-**Full text per tradition:**
-- **SBLGNT:** `οὐ βραδύνει κύριος τῆς ἐπαγγελίας, ὥς τινες βραδύτητα ἡγοῦνται, ἀλλὰ μακροθυμεῖ εἰς ὑμᾶς, μὴ βουλόμενός τινας ἀπολέσθαι ἀλλὰ πάντας εἰς μετάνοιαν χωρῆσαι.`
-- **N1904:** `οὐ βραδύνει Κύριος τῆς ἐπαγγελίας, ὥς τινες βραδυτῆτα ἡγοῦνται, ἀλλὰ μακροθυμεῖ εἰς ὑμᾶς, μὴ βουλόμενός τινας ἀπολέσθαι ἀλλὰ πάντας εἰς μετάνοιαν χωρῆσαι.`
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** `οὐ βραδύνει ὁ κύριος τῆς ἐπαγγελίας, ὥς τινες βραδυτῆτα ἡγοῦνται, ἀλλὰ μακροθυμεῖ εἰς ἡμᾶς, μὴ βουλόμενός τινας ἀπολέσθαι ἀλλὰ πάντας εἰς μετάνοιαν χωρῆσαι.`
+1. *presence/absence of article.* minor. Without article, `κύριος` functions quasi-nominally (like a proper name, rendering "Lord"); with article, it refers to "the [aforementioned] Lord" with anaphoric force
+2. *pronoun person change (2nd → 1st plural).* substantive in pastoral tone. SBL/N1904 places the readers as recipients of divine patience; RP includes the author alongside the readers ("us"). Common scribal shift in a patristic era reading context
+
+**Reference text (SBLGNT):** `οὐ βραδύνει κύριος τῆς ἐπαγγελίας, ὥς τινες βραδύτητα ἡγοῦνται, ἀλλὰ μακροθυμεῖ εἰς ὑμᾶς, μὴ βουλόμενός τινας ἀπολέσθαι ἀλλὰ πάντας εἰς μετάνοιαν χωρῆσαι.`
 
 **Morphology (from N1904):**
 
@@ -478,40 +486,28 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.10
 
-**Variants detected: 4**
+**4 variants across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: subject of `ἥξει`*
-- SBLGNT, N1904, NA28, WH: `ἡμέρα κυρίου` (anarthrous — "a/the Day of the Lord")
-- RP: `ἡ ἡμέρα κυρίου` (articular — adds `ἡ`)
-- Nature: presence/absence of article
-- Significance: minor; both refer to the same eschatological day
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> subject of <code>ἥξει</code></td><td><code>ἡμέρα κυρίου</code></td><td><code>ἡμέρα κυρίου</code></td><td><code>ἡμέρα κυρίου</code></td><td><code>ἡμέρα κυρίου</code></td><td><strong><code>ἡ ἡμέρα κυρίου</code></strong></td></tr>
+<tr><td><strong>2.</strong> after <code>κλέπτης</code></td><td><code>κλέπτης,</code></td><td><code>κλέπτης,</code></td><td><code>κλέπτης,</code></td><td><code>κλέπτης,</code></td><td><strong><code>κλέπτης ἐν νυκτί</code></strong></td></tr>
+<tr><td><strong>3.</strong> verb governing <code>στοιχεῖα δὲ καυσούμενα</code></td><td><code>λυθήσεται</code></td><td><code>λυθήσεται</code></td><td><code>λυθήσεται</code></td><td><code>λυθήσεται</code></td><td><strong><code>λυθήσονται</code></strong></td></tr>
+<tr><td><strong>4.</strong> closing verb — one of the most famous textual cruxes in the NT</td><td><code>εὑρεθήσεται</code></td><td><strong><code>εὑρεθήσεται</code></strong></td><td><strong><code>οὐχ εὑρεθήσεται</code></strong></td><td><code>εὑρεθήσεται</code></td><td><strong><code>κατακαήσεται</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**⟨Variant 2⟩** *Location: after `κλέπτης`*
-- SBLGNT, N1904, NA28, WH: `κλέπτης,` (no qualifier)
-- RP: `κλέπτης ἐν νυκτί` ("thief *in the night*")
-- Nature: addition — RP adds `ἐν νυκτί`
-- Significance: substantive. RP harmonizes toward 1 Thess 5:2 / Matt 24:43 ("thief in the night"). Shorter eclectic reading is characteristic of 2 Peter's unique phrasing
+**How they differ:**
 
-**⟨Variant 3⟩** *Location: verb governing `στοιχεῖα δὲ καυσούμενα`*
-- SBLGNT, N1904, NA28, WH: `λυθήσεται` (V-FPI-3S — singular "it will be dissolved")
-- RP: `λυθήσονται` (V-FPI-3P — plural "they will be dissolved")
-- Nature: verb number (singular → plural)
-- Significance: grammatical. Plural `στοιχεῖα` naturally expects plural verb; the singular in the eclectic text is the harder reading (possibly constructed ad sensum with an implied collective or with `κόσμος`)
+1. *presence/absence of article.* minor; both refer to the same eschatological day
+2. *addition — RP adds `ἐν νυκτί`.* substantive. RP harmonizes toward 1 Thess 5:2 / Matt 24:43 ("thief in the night"). Shorter eclectic reading is characteristic of 2 Peter's unique phrasing
+3. *verb number (singular → plural).* grammatical. Plural `στοιχεῖα` naturally expects plural verb; the singular in the eclectic text is the harder reading (possibly constructed ad sensum with an implied collective or with `κόσμος`)
+4. *lexical/textual — three entirely different readings for the verse-ending verb.* **highly substantive** — this is one of the hardest textual problems in the NT. The Alexandrian `εὑρεθήσεται` is lectio difficilior and well-attested (ℵ B K P); the Byzantine `κατακαήσεται` smooths the eschatology toward annihilation; NA28's conjectural `οὐχ εὑρεθήσεται` assumes haplography. Reading affects whether "the earth and works" are revealed, destroyed, or not found at all
 
-**⟨Variant 4⟩** *Location: closing verb — one of the most famous textual cruxes in the NT*
-- SBLGNT, WH, Treg (NA27): `εὑρεθήσεται` ("shall be found/discovered")
-- N1904: `εὑρεθήσεται` (= SBL)
-- NA28: `οὐχ εὑρεθήσεται` ("shall *not* be found") — editorial conjecture adopted by NA28 committee
-- RP: `κατακαήσεται` ("shall be burned up")
-- Nature: lexical/textual — three entirely different readings for the verse-ending verb
-- Significance: **highly substantive** — this is one of the hardest textual problems in the NT. The Alexandrian `εὑρεθήσεται` is lectio difficilior and well-attested (ℵ B K P); the Byzantine `κατακαήσεται` smooths the eschatology toward annihilation; NA28's conjectural `οὐχ εὑρεθήσεται` assumes haplography. Reading affects whether "the earth and works" are revealed, destroyed, or not found at all
-
-**Full text per tradition:**
-- **SBLGNT:** `ἥξει δὲ ἡμέρα κυρίου ὡς κλέπτης, ἐν ᾗ οἱ οὐρανοὶ ῥοιζηδὸν παρελεύσονται, στοιχεῖα δὲ καυσούμενα λυθήσεται, καὶ γῆ καὶ τὰ ἐν αὐτῇ ἔργα εὑρεθήσεται.`
-- **N1904:** `ἥξει δὲ ἡμέρα Κυρίου ὡς κλέπτης, ἐν ᾗ οἱ οὐρανοὶ ῥοιζηδὸν παρελεύσονται, στοιχεῖα δὲ καυσούμενα λυθήσεται, καὶ γῆ καὶ τὰ ἐν αὐτῇ ἔργα εὑρεθήσεται.`
-- **NA28:** `ἥξει δὲ ἡμέρα κυρίου ὡς κλέπτης, ἐν ᾗ οἱ οὐρανοὶ ῥοιζηδὸν παρελεύσονται, στοιχεῖα δὲ καυσούμενα λυθήσεται, καὶ γῆ καὶ τὰ ἐν αὐτῇ ἔργα οὐχ εὑρεθήσεται.`
-- **WH:** = SBLGNT
-- **RP:** `ἥξει δὲ ἡ ἡμέρα κυρίου ὡς κλέπτης ἐν νυκτί, ἐν ᾗ οἱ οὐρανοὶ ῥοιζηδὸν παρελεύσονται, στοιχεῖα δὲ καυσούμενα λυθήσονται, καὶ γῆ καὶ τὰ ἐν αὐτῇ ἔργα κατακαήσεται.`
+**Reference text (SBLGNT):** `ἥξει δὲ ἡμέρα κυρίου ὡς κλέπτης, ἐν ᾗ οἱ οὐρανοὶ ῥοιζηδὸν παρελεύσονται, στοιχεῖα δὲ καυσούμενα λυθήσεται, καὶ γῆ καὶ τὰ ἐν αὐτῇ ἔργα εὑρεθήσεται.`
 
 **Morphology (from N1904, with `εὑρεθήσεται`):**
 
@@ -552,20 +548,22 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.11
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: after `Τούτων`*
-- SBLGNT, WH, NA28: `οὕτως` (adverb — "thus/in this way")
-- N1904, RP: `οὖν` (illative conjunction — "therefore")
-- Nature: lexical/particle substitution
-- Significance: substantive. `οὕτως` characterizes the manner of dissolution ("since all these things are being dissolved *in this way*"); `οὖν` draws a logical inference ("since *therefore* all these things are being dissolved"). Affects the rhetorical force of the argument
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> after <code>Τούτων</code></td><td><code>οὕτως</code></td><td><strong><code>οὖν</code></strong></td><td><code>οὕτως</code></td><td><code>οὕτως</code></td><td><strong><code>οὖν</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `Τούτων οὕτως πάντων λυομένων ποταποὺς δεῖ ὑπάρχειν ὑμᾶς ἐν ἁγίαις ἀναστροφαῖς καὶ εὐσεβείαις,`
-- **N1904:** `Τούτων οὖν πάντων λυομένων ποταποὺς δεῖ ὑπάρχειν ὑμᾶς ἐν ἁγίαις ἀναστροφαῖς καὶ εὐσεβείαις,`
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** = N1904
+**How they differ:**
+
+1. *lexical/particle substitution.* substantive. `οὕτως` characterizes the manner of dissolution ("since all these things are being dissolved *in this way*"); `οὖν` draws a logical inference ("since *therefore* all these things are being dissolved"). Affects the rhetorical force of the argument
+
+**Reference text (SBLGNT):** `Τούτων οὕτως πάντων λυομένων ποταποὺς δεῖ ὑπάρχειν ὑμᾶς ἐν ἁγίαις ἀναστροφαῖς καὶ εὐσεβείαις,`
 
 **Morphology (from N1904, `οὖν` reading):**
 
@@ -596,7 +594,9 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.12
 
-**All sources agree.** *(N1904 capitalizes `Θεοῦ`)*
+**All 5 witnesses agree.**
+
+*N1904 capitalizes `Θεοῦ`*
 
 **Text:** `προσδοκῶντας καὶ σπεύδοντας τὴν παρουσίαν τῆς τοῦ θεοῦ ἡμέρας, διʼ ἣν οὐρανοὶ πυρούμενοι λυθήσονται καὶ στοιχεῖα καυσούμενα τήκεται·`
 
@@ -632,7 +632,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.13
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `καινοὺς δὲ οὐρανοὺς καὶ γῆν καινὴν κατὰ τὸ ἐπάγγελμα αὐτοῦ προσδοκῶμεν, ἐν οἷς δικαιοσύνη κατοικεῖ.`
 
@@ -666,7 +666,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.14
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `Διό, ἀγαπητοί, ταῦτα προσδοκῶντες σπουδάσατε ἄσπιλοι καὶ ἀμώμητοι αὐτῷ εὑρεθῆναι ἐν εἰρήνῃ,`
 
@@ -696,20 +696,22 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.15
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: phrase modifying `σοφίαν`*
-- SBLGNT, N1904, NA28, WH: `δοθεῖσαν αὐτῷ` (participle before pronoun — "the given-to-him wisdom")
-- RP: `αὐτῷ δοθεῖσαν` (pronoun before participle)
-- Nature: word order (attributive participial phrase)
-- Significance: no semantic change; stylistic re-ordering. Byzantine reading places `αὐτῷ` in more prominent position immediately after the article
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> phrase modifying <code>σοφίαν</code></td><td><code>δοθεῖσαν αὐτῷ</code></td><td><code>δοθεῖσαν αὐτῷ</code></td><td><code>δοθεῖσαν αὐτῷ</code></td><td><code>δοθεῖσαν αὐτῷ</code></td><td><strong><code>αὐτῷ δοθεῖσαν</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `καὶ τὴν τοῦ κυρίου ἡμῶν μακροθυμίαν σωτηρίαν ἡγεῖσθε, καθὼς καὶ ὁ ἀγαπητὸς ἡμῶν ἀδελφὸς Παῦλος κατὰ τὴν δοθεῖσαν αὐτῷ σοφίαν ἔγραψεν ὑμῖν,`
-- **N1904:** `καὶ τὴν τοῦ Κυρίου ἡμῶν μακροθυμίαν σωτηρίαν ἡγεῖσθε, καθὼς καὶ ὁ ἀγαπητὸς ἡμῶν ἀδελφὸς Παῦλος κατὰ τὴν δοθεῖσαν αὐτῷ σοφίαν ἔγραψεν ὑμῖν,`
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** `καὶ τὴν τοῦ κυρίου ἡμῶν μακροθυμίαν σωτηρίαν ἡγεῖσθε, καθὼς καὶ ὁ ἀγαπητὸς ἡμῶν ἀδελφὸς Παῦλος κατὰ τὴν αὐτῷ δοθεῖσαν σοφίαν ἔγραψεν ὑμῖν,`
+**How they differ:**
+
+1. *word order (attributive participial phrase).* no semantic change; stylistic re-ordering. Byzantine reading places `αὐτῷ` in more prominent position immediately after the article
+
+**Reference text (SBLGNT):** `καὶ τὴν τοῦ κυρίου ἡμῶν μακροθυμίαν σωτηρίαν ἡγεῖσθε, καθὼς καὶ ὁ ἀγαπητὸς ἡμῶν ἀδελφὸς Παῦλος κατὰ τὴν δοθεῖσαν αὐτῷ σοφίαν ἔγραψεν ὑμῖν,`
 
 **Morphology (from N1904):**
 
@@ -747,32 +749,26 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.16
 
-**Variants detected: 3**
+**3 variants across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: modifier of `ἐπιστολαῖς`*
-- SBLGNT, NA28, RP: `ἐν πάσαις ταῖς ἐπιστολαῖς` (articular — "in all *the* letters")
-- N1904, WH (and Treg / NA27): `ἐν πάσαις ἐπιστολαῖς` (anarthrous — "in all letters")
-- Nature: presence/absence of article `ταῖς`
-- Significance: substantive. With article, "all *the* [known] letters" — definite corpus; without article, "in all letters [he wrote]" — more generic. Affects how early the Pauline letters functioned as a canonical collection
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> modifier of <code>ἐπιστολαῖς</code></td><td><code>ἐν πάσαις ταῖς ἐπιστολαῖς</code></td><td><strong><code>ἐν πάσαις ἐπιστολαῖς</code></strong></td><td><code>ἐν πάσαις ταῖς ἐπιστολαῖς</code></td><td>—</td><td><code>ἐν πάσαις ταῖς ἐπιστολαῖς</code></td></tr>
+<tr><td><strong>2.</strong> relative pronoun introducing the &quot;hard-to-understand&quot; clause</td><td><code>ἐν αἷς</code></td><td><code>ἐν αἷς</code></td><td><code>ἐν αἷς</code></td><td><code>ἐν αἷς</code></td><td><strong><code>ἐν οἷς</code></strong></td></tr>
+<tr><td><strong>3.</strong> verb governing <code>οἱ ἀμαθεῖς καὶ ἀστήρικτοι</code></td><td><code>στρεβλοῦσιν</code></td><td><code>στρεβλοῦσιν</code></td><td><strong><code>στρεβλώσουσιν</code></strong></td><td><code>στρεβλοῦσιν</code></td><td><code>στρεβλοῦσιν</code></td></tr>
+</tbody>
+</table>
+</div>
 
-**⟨Variant 2⟩** *Location: relative pronoun introducing the "hard-to-understand" clause*
-- SBLGNT, N1904, NA28, WH: `ἐν αἷς` (fem. plural dative — "in which [letters]")
-- RP: `ἐν οἷς` (masc./neut. plural dative — "in which [things]")
-- Nature: relative-pronoun gender change (fem. → masc./neut.)
-- Significance: antecedent shift. `αἷς` refers back to `ἐπιστολαῖς` (letters); `οἷς` refers to the contents/topics (`τούτων`). Eclectic: hard things *in the letters*; Byzantine: hard things *in these matters*
+**How they differ:**
 
-**⟨Variant 3⟩** *Location: verb governing `οἱ ἀμαθεῖς καὶ ἀστήρικτοι`*
-- SBLGNT, N1904, WH, RP: `στρεβλοῦσιν` (V-PAI-3P — present active — "they twist/distort")
-- NA28: `στρεβλώσουσιν` (V-FAI-3P — future active — "they will twist")
-- Nature: tense change (present → future)
-- Significance: NA28's future tense extends the distortion to future readers; present tense treats it as ongoing contemporary reality. NA28 alone adopts the future here
+1. *presence/absence of article `ταῖς`.* substantive. With article, "all *the* [known] letters" — definite corpus; without article, "in all letters [he wrote]" — more generic. Affects how early the Pauline letters functioned as a canonical collection
+2. *relative-pronoun gender change (fem. → masc./neut.).* antecedent shift. `αἷς` refers back to `ἐπιστολαῖς` (letters); `οἷς` refers to the contents/topics (`τούτων`). Eclectic: hard things *in the letters*; Byzantine: hard things *in these matters*
+3. *tense change (present → future).* NA28's future tense extends the distortion to future readers; present tense treats it as ongoing contemporary reality. NA28 alone adopts the future here
 
-**Full text per tradition:**
-- **SBLGNT:** `ὡς καὶ ἐν πάσαις ταῖς ἐπιστολαῖς λαλῶν ἐν αὐταῖς περὶ τούτων, ἐν αἷς ἐστιν δυσνόητά τινα, ἃ οἱ ἀμαθεῖς καὶ ἀστήρικτοι στρεβλοῦσιν ὡς καὶ τὰς λοιπὰς γραφὰς πρὸς τὴν ἰδίαν αὐτῶν ἀπώλειαν.`
-- **N1904:** `ὡς καὶ ἐν πάσαις ἐπιστολαῖς λαλῶν ἐν αὐταῖς περὶ τούτων, ἐν αἷς ἐστὶν δυσνόητά τινα, ἃ οἱ ἀμαθεῖς καὶ ἀστήρικτοι στρεβλοῦσιν ὡς καὶ τὰς λοιπὰς γραφὰς πρὸς τὴν ἰδίαν αὐτῶν ἀπώλειαν.`
-- **NA28:** `ὡς καὶ ἐν πάσαις ταῖς ἐπιστολαῖς λαλῶν ἐν αὐταῖς περὶ τούτων, ἐν αἷς ἐστιν δυσνόητά τινα, ἃ οἱ ἀμαθεῖς καὶ ἀστήρικτοι στρεβλώσουσιν ὡς καὶ τὰς λοιπὰς γραφὰς πρὸς τὴν ἰδίαν αὐτῶν ἀπώλειαν.`
-- **WH:** = N1904 (but lower-case divine titles)
-- **RP:** `ὡς καὶ ἐν πάσαις ταῖς ἐπιστολαῖς, λαλῶν ἐν αὐταῖς περὶ τούτων· ἐν οἷς ἐστιν δυσνόητά τινα, ἃ οἱ ἀμαθεῖς καὶ ἀστήρικτοι στρεβλοῦσιν, ὡς καὶ τὰς λοιπὰς γραφὰς, πρὸς τὴν ἰδίαν αὐτῶν ἀπώλειαν.`
+**Reference text (SBLGNT):** `ὡς καὶ ἐν πάσαις ταῖς ἐπιστολαῖς λαλῶν ἐν αὐταῖς περὶ τούτων, ἐν αἷς ἐστιν δυσνόητά τινα, ἃ οἱ ἀμαθεῖς καὶ ἀστήρικτοι στρεβλοῦσιν ὡς καὶ τὰς λοιπὰς γραφὰς πρὸς τὴν ἰδίαν αὐτῶν ἀπώλειαν.`
 
 **Morphology (from N1904):**
 
@@ -822,7 +818,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.17
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `Ὑμεῖς οὖν, ἀγαπητοί, προγινώσκοντες φυλάσσεσθε ἵνα μὴ τῇ τῶν ἀθέσμων πλάνῃ συναπαχθέντες ἐκπέσητε τοῦ ἰδίου στηριγμοῦ,`
 
@@ -857,20 +853,22 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.18
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: closing liturgical word of the epistle*
-- SBLGNT, N1904, RP (and Treg/NA27): `ἀμήν.` (present)
-- NA28, WH: omit `ἀμήν`
-- Nature: presence/absence of closing `ἀμήν`
-- Significance: substantive for liturgical reception but not semantically impactful. The omission by WH/NA28 reflects shorter Alexandrian witnesses (B); the inclusion is the majority reading and matches the typical liturgical close of NT epistles
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> closing liturgical word of the epistle</td><td><code>ἀμήν.</code></td><td><code>ἀμήν.</code></td><td><code>omit `ἀμήν`</code></td><td><code>omit `ἀμήν`</code></td><td>—</td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `αὐξάνετε δὲ ἐν χάριτι καὶ γνώσει τοῦ κυρίου ἡμῶν καὶ σωτῆρος Ἰησοῦ Χριστοῦ. αὐτῷ ἡ δόξα καὶ νῦν καὶ εἰς ἡμέραν αἰῶνος. ἀμήν.`
-- **N1904:** `αὐξάνετε δὲ ἐν χάριτι καὶ γνώσει τοῦ Κυρίου ἡμῶν καὶ Σωτῆρος Ἰησοῦ Χριστοῦ. αὐτῷ ἡ δόξα καὶ νῦν καὶ εἰς ἡμέραν αἰῶνος. ἀμήν.`
-- **NA28:** `αὐξάνετε δὲ ἐν χάριτι καὶ γνώσει τοῦ κυρίου ἡμῶν καὶ σωτῆρος Ἰησοῦ Χριστοῦ. αὐτῷ ἡ δόξα καὶ νῦν καὶ εἰς ἡμέραν αἰῶνος.`
-- **WH:** = NA28 (no ἀμήν)
-- **RP:** = SBLGNT
+**How they differ:**
+
+1. *presence/absence of closing `ἀμήν`.* substantive for liturgical reception but not semantically impactful. The omission by WH/NA28 reflects shorter Alexandrian witnesses (B); the inclusion is the majority reading and matches the typical liturgical close of NT epistles
+
+**Reference text (SBLGNT):** `αὐξάνετε δὲ ἐν χάριτι καὶ γνώσει τοῦ κυρίου ἡμῶν καὶ σωτῆρος Ἰησοῦ Χριστοῦ. αὐτῷ ἡ δόξα καὶ νῦν καὶ εἰς ἡμέραν αἰῶνος. ἀμήν.`
 
 **Morphology (from N1904, with `ἀμήν`):**
 
@@ -929,3 +927,5 @@ Preserved here as a reader aid; all items listed are independent of the variant 
 ---
 
 *End of Section 1 — Multi-Source Original Greek Text Variants, 2 Peter 3*
+
+---

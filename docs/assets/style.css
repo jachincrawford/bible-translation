@@ -97,6 +97,49 @@ th, td {
 }
 th { background: #f3efe4; }
 
+/* Layer 1 witness-comparison tables don't fit a phone; scroll horizontally. */
+.variant-table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 16px 0;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: var(--card);
+}
+.variant-table-wrap table {
+  margin: 0;
+  min-width: 720px;
+  border: 0;
+}
+.variant-table-wrap th,
+.variant-table-wrap td {
+  border-left: 0;
+  border-right: 1px solid var(--line);
+  border-top: 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 15px;
+  white-space: normal;
+}
+.variant-table-wrap th:last-child,
+.variant-table-wrap td:last-child { border-right: 0; }
+.variant-table-wrap tr:last-child td { border-bottom: 0; }
+/* First column (variant location) sticks as the row anchor. */
+.variant-table-wrap th:first-child,
+.variant-table-wrap td:first-child {
+  min-width: 180px;
+  background: #faf6e8;
+}
+.variant-table-wrap code {
+  background: transparent;
+  padding: 0;
+  font-size: 15px;
+}
+.variant-table-wrap strong code {
+  background: #fff1c8;
+  border-radius: 2px;
+  padding: 0 3px;
+}
+
 ul, ol { padding-left: 22px; }
 li { margin: 4px 0; }
 
@@ -252,6 +295,28 @@ footer.site a { color: var(--accent); }
   pre { page-break-inside: avoid; }
   table, th, td { border-color: #000000 !important; }
   th { background: #ffffff !important; }
+  /* Variant tables: print full width, no scroll, minority in black bold + underline. */
+  .variant-table-wrap {
+    overflow: visible !important;
+    border: 0 !important;
+    background: #ffffff !important;
+  }
+  .variant-table-wrap table {
+    min-width: 0 !important;
+    font-size: 9pt;
+    page-break-inside: auto;
+  }
+  .variant-table-wrap th:first-child,
+  .variant-table-wrap td:first-child {
+    background: #ffffff !important;
+    min-width: 0;
+  }
+  .variant-table-wrap strong code {
+    background: transparent !important;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  tr { page-break-inside: avoid; }
   hr { border-top: 1pt solid #000000; }
   h1, h2, h3, h4 { color: #000000 !important; page-break-after: avoid; }
   .cards, .layer-grid, .prevnext, .placeholder { display: none !important; }

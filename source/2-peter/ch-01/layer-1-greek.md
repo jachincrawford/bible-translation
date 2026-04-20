@@ -89,24 +89,28 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ## Verse-by-Verse
 
+> Each verse below is either stated as a single agreed text (all five witnesses read the same) or presented as a variant table. In the table, each row is one textual variant in the verse; cells in **bold** differ from the majority reading. Rows where all five witnesses agree are collapsed out — stated implicitly by the reference text shown beneath the table.
+
 ---
 
 ### v.1
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: opening word (name of Peter)*
-- SBLGNT, N1904, NA28, RP: `Συμεὼν` (Semitic form)
-- WH: `Σίμων` (Hellenized form)
-- Nature: spelling / onomastic form
-- Significance: both refer to the same apostle; Συμεών reflects the Semitic Šimʿôn (cf. Acts 15:14 of the same apostle); Σίμων is the Hellenized equivalent used frequently in the Gospels
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> opening word (name of Peter)</td><td><code>Συμεὼν</code></td><td><code>Συμεὼν</code></td><td><code>Συμεὼν</code></td><td><strong><code>Σίμων</code></strong></td><td><code>Συμεὼν</code></td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `Συμεὼν Πέτρος δοῦλος καὶ ἀπόστολος Ἰησοῦ Χριστοῦ τοῖς ἰσότιμον ἡμῖν λαχοῦσιν πίστιν ἐν δικαιοσύνῃ τοῦ θεοῦ ἡμῶν καὶ σωτῆρος Ἰησοῦ Χριστοῦ·`
-- **N1904:** = SBLGNT (capitalization: `Θεοῦ`, `Σωτῆρος`)
-- **NA28:** = SBLGNT
-- **WH:** `Σίμων Πέτρος δοῦλος καὶ ἀπόστολος Ἰησοῦ Χριστοῦ τοῖς ἰσότιμον ἡμῖν λαχοῦσιν πίστιν ἐν δικαιοσύνῃ τοῦ θεοῦ ἡμῶν καὶ σωτῆρος Ἰησοῦ Χριστοῦ·`
-- **RP:** = SBLGNT
+**How they differ:**
+
+1. *spelling / onomastic form.* both refer to the same apostle; Συμεών reflects the Semitic Šimʿôn (cf. Acts 15:14 of the same apostle); Σίμων is the Hellenized equivalent used frequently in the Gospels
+
+**Reference text (SBLGNT):** `Συμεὼν Πέτρος δοῦλος καὶ ἀπόστολος Ἰησοῦ Χριστοῦ τοῖς ἰσότιμον ἡμῖν λαχοῦσιν πίστιν ἐν δικαιοσύνῃ τοῦ θεοῦ ἡμῶν καὶ σωτῆρος Ἰησοῦ Χριστοῦ·`
 
 **Morphology (from N1904):**
 
@@ -143,7 +147,9 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.2
 
-**All sources agree.** *(N1904 capitalizes `Θεοῦ`, `Κυρίου`)*
+**All 5 witnesses agree.**
+
+*N1904 capitalizes `Θεοῦ`, `Κυρίου`*
 
 **Text:** `χάρις ὑμῖν καὶ εἰρήνη πληθυνθείη ἐν ἐπιγνώσει τοῦ θεοῦ καὶ Ἰησοῦ τοῦ κυρίου ἡμῶν.`
 
@@ -174,26 +180,24 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.3
 
-**Variants detected: 2**
+**2 variants across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: after opening `Ὡς`*
-- SBLGNT, NA28, WH, RP: `πάντα` (anarthrous)
-- N1904: `τὰ πάντα` (articular — adds article `τὰ`)
-- Nature: presence/absence of article
-- Significance: minor semantic shade — "all things" (anarthrous) vs. "the all things" (articular); does not affect theology
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> after opening <code>Ὡς</code></td><td><code>πάντα</code></td><td><strong><code>τὰ πάντα</code></strong></td><td><code>πάντα</code></td><td><code>πάντα</code></td><td><code>πάντα</code></td></tr>
+<tr><td><strong>2.</strong> final phrase, following <code>τοῦ καλέσαντος ἡμᾶς</code></td><td><code>ἰδίᾳ δόξῃ καὶ ἀρετῇ</code></td><td><code>ἰδίᾳ δόξῃ καὶ ἀρετῇ</code></td><td><code>ἰδίᾳ δόξῃ καὶ ἀρετῇ</code></td><td><strong><code>διὰ δόξης καὶ ἀρετῆς</code></strong></td><td><strong><code>διὰ δόξης καὶ ἀρετῆς</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**⟨Variant 2⟩** *Location: final phrase, following `τοῦ καλέσαντος ἡμᾶς`*
-- SBLGNT, N1904, NA28: `ἰδίᾳ δόξῃ καὶ ἀρετῇ` (dative instrumental — "by his own glory and virtue")
-- WH, RP: `διὰ δόξης καὶ ἀρετῆς` (preposition + genitive — "through glory and virtue")
-- Nature: preposition + case change; also changes whether "own" (ἰδίᾳ) is present
-- Significance: substantive. Eclectic reading: God *called* us *by means of* his own glory. Byzantine/WH reading: called us *through* glory. The eclectic dative emphasises Christ's own attributes as the means of calling
+**How they differ:**
 
-**Full text per tradition:**
-- **SBLGNT:** `Ὡς πάντα ἡμῖν τῆς θείας δυνάμεως αὐτοῦ τὰ πρὸς ζωὴν καὶ εὐσέβειαν δεδωρημένης διὰ τῆς ἐπιγνώσεως τοῦ καλέσαντος ἡμᾶς ἰδίᾳ δόξῃ καὶ ἀρετῇ,`
-- **N1904:** `Ὡς τὰ πάντα ἡμῖν τῆς θείας δυνάμεως αὐτοῦ τὰ πρὸς ζωὴν καὶ εὐσέβειαν δεδωρημένης διὰ τῆς ἐπιγνώσεως τοῦ καλέσαντος ἡμᾶς ἰδίᾳ δόξῃ καὶ ἀρετῇ,`
-- **NA28:** = SBLGNT
-- **WH:** `Ὡς πάντα ἡμῖν τῆς θείας δυνάμεως αὐτοῦ τὰ πρὸς ζωὴν καὶ εὐσέβειαν δεδωρημένης διὰ τῆς ἐπιγνώσεως τοῦ καλέσαντος ἡμᾶς διὰ δόξης καὶ ἀρετῆς,`
-- **RP:** `Ὡς πάντα ἡμῖν τῆς θείας δυνάμεως αὐτοῦ τὰ πρὸς ζωὴν καὶ εὐσέβειαν δεδωρημένης, διὰ τῆς ἐπιγνώσεως τοῦ καλέσαντος ἡμᾶς διὰ δόξης καὶ ἀρετῆς,`
+1. *presence/absence of article.* minor semantic shade — "all things" (anarthrous) vs. "the all things" (articular); does not affect theology
+2. *preposition + case change; also changes whether "own" (ἰδίᾳ) is present.* substantive. Eclectic reading: God *called* us *by means of* his own glory. Byzantine/WH reading: called us *through* glory. The eclectic dative emphasises Christ's own attributes as the means of calling
+
+**Reference text (SBLGNT):** `Ὡς πάντα ἡμῖν τῆς θείας δυνάμεως αὐτοῦ τὰ πρὸς ζωὴν καὶ εὐσέβειαν δεδωρημένης διὰ τῆς ἐπιγνώσεως τοῦ καλέσαντος ἡμᾶς ἰδίᾳ δόξῃ καὶ ἀρετῇ,`
 
 **Morphology (from N1904, including `τὰ`):**
 
@@ -232,27 +236,24 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.4
 
-**Variants detected: 2**
+**2 variants across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: phrase after `διʼ ὧν τὰ`*
-- SBLGNT, WH, NA28: `τίμια καὶ μέγιστα ἡμῖν` (order: adj-adj-pronoun)
-- N1904 / Treg tradition: `μέγιστα καὶ τίμια ἡμῖν` (swapped adjectives)
-- RP: `τίμια ἡμῖν καὶ μέγιστα` (pronoun between adjectives)
-- Nature: triple-split word order
-- Significance: no semantic change; emphasis only
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> phrase after <code>διʼ ὧν τὰ</code></td><td><code>τίμια καὶ μέγιστα ἡμῖν</code></td><td><strong><code>μέγιστα καὶ τίμια ἡμῖν</code></strong></td><td><code>τίμια καὶ μέγιστα ἡμῖν</code></td><td><code>τίμια καὶ μέγιστα ἡμῖν</code></td><td><strong><code>τίμια ἡμῖν καὶ μέγιστα</code></strong></td></tr>
+<tr><td><strong>2.</strong> before <code>κόσμῳ</code></td><td><code>ἐν τῷ κόσμῳ</code></td><td><code>ἐν τῷ κόσμῳ</code></td><td><code>ἐν τῷ κόσμῳ</code></td><td><code>ἐν τῷ κόσμῳ</code></td><td><strong><code>ἐν κόσμῳ</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**⟨Variant 2⟩** *Location: before `κόσμῳ`*
-- SBLGNT, WH, N1904, NA28: `ἐν τῷ κόσμῳ` (with article)
-- RP: `ἐν κόσμῳ` (omits article `τῷ`)
-- Nature: presence/absence of article
-- Significance: minor; "in the world" vs "in world"
+**How they differ:**
 
-**Full text per tradition:**
-- **SBLGNT:** `διʼ ὧν τὰ τίμια καὶ μέγιστα ἡμῖν ἐπαγγέλματα δεδώρηται, ἵνα διὰ τούτων γένησθε θείας κοινωνοὶ φύσεως, ἀποφυγόντες τῆς ἐν τῷ κόσμῳ ἐν ἐπιθυμίᾳ φθορᾶς.`
-- **N1904:** `δι᾽ ὧν τὰ μέγιστα ἡμῖν καὶ τίμια ἐπαγγέλματα δεδώρηται, ἵνα διὰ τούτων γένησθε θείας κοινωνοὶ φύσεως, ἀποφυγόντες τῆς ἐν τῷ κόσμῳ ἐν ἐπιθυμίᾳ φθορᾶς.`
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** `διʼ ὧν τὰ τίμια ἡμῖν καὶ μέγιστα ἐπαγγέλματα δεδώρηται, ἵνα διὰ τούτων γένησθε θείας κοινωνοὶ φύσεως, ἀποφυγόντες τῆς ἐν κόσμῳ ἐν ἐπιθυμίᾳ φθορᾶς.`
+1. *triple-split word order.* no semantic change; emphasis only
+2. *presence/absence of article.* minor; "in the world" vs "in world"
+
+**Reference text (SBLGNT):** `διʼ ὧν τὰ τίμια καὶ μέγιστα ἡμῖν ἐπαγγέλματα δεδώρηται, ἵνα διὰ τούτων γένησθε θείας κοινωνοὶ φύσεως, ἀποφυγόντες τῆς ἐν τῷ κόσμῳ ἐν ἐπιθυμίᾳ φθορᾶς.`
 
 **Morphology (from N1904):**
 
@@ -292,7 +293,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.5
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `καὶ αὐτὸ τοῦτο δὲ σπουδὴν πᾶσαν παρεισενέγκαντες ἐπιχορηγήσατε ἐν τῇ πίστει ὑμῶν τὴν ἀρετήν, ἐν δὲ τῇ ἀρετῇ τὴν γνῶσιν,`
 
@@ -330,7 +331,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.6
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `ἐν δὲ τῇ γνώσει τὴν ἐγκράτειαν, ἐν δὲ τῇ ἐγκρατείᾳ τὴν ὑπομονήν, ἐν δὲ τῇ ὑπομονῇ τὴν εὐσέβειαν,`
 
@@ -366,7 +367,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.7
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `ἐν δὲ τῇ εὐσεβείᾳ τὴν φιλαδελφίαν, ἐν δὲ τῇ φιλαδελφίᾳ τὴν ἀγάπην·`
 
@@ -395,7 +396,9 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.8
 
-**All sources agree.** *(N1904 capitalizes `Κυρίου`, `Ἰησοῦ`, `Χριστοῦ`)*
+**All 5 witnesses agree.**
+
+*N1904 capitalizes `Κυρίου`, `Ἰησοῦ`, `Χριστοῦ`*
 
 **Text:** `ταῦτα γὰρ ὑμῖν ὑπάρχοντα καὶ πλεονάζοντα οὐκ ἀργοὺς οὐδὲ ἀκάρπους καθίστησιν εἰς τὴν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἐπίγνωσιν·`
 
@@ -432,20 +435,22 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.9
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: final word*
-- SBLGNT: `ἁμαρτημάτων` (N-GPN of ἁμάρτημα, Strong's 265 — "sinful acts/deeds")
-- N1904, NA28, WH, RP: `ἁμαρτιῶν` (N-GPF of ἁμαρτία, Strong's 266 — "sins")
-- Nature: **lexical variant — two different lexemes** (ἁμάρτημα vs. ἁμαρτία)
-- Significance: substantive. ἁμάρτημα stresses individual acts of sin as discrete units; ἁμαρτία can denote either individual sins or the sinful condition/principle. SBL's choice is the harder reading; it is the sole minority witness here
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> final word</td><td><strong><code>ἁμαρτημάτων</code></strong></td><td><code>ἁμαρτιῶν</code></td><td><code>ἁμαρτιῶν</code></td><td><code>ἁμαρτιῶν</code></td><td><code>ἁμαρτιῶν</code></td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `ᾧ γὰρ μὴ πάρεστιν ταῦτα, τυφλός ἐστιν μυωπάζων, λήθην λαβὼν τοῦ καθαρισμοῦ τῶν πάλαι αὐτοῦ ἁμαρτημάτων.`
-- **N1904:** `ᾧ γὰρ μὴ πάρεστιν ταῦτα, τυφλός ἐστιν μυωπάζων, λήθην λαβὼν τοῦ καθαρισμοῦ τῶν πάλαι αὐτοῦ ἁμαρτιῶν.`
-- **NA28:** = N1904
-- **WH:** = N1904
-- **RP:** = N1904
+**How they differ:**
+
+1. ***lexical variant — two different lexemes** (ἁμάρτημα vs. ἁμαρτία).* substantive. ἁμάρτημα stresses individual acts of sin as discrete units; ἁμαρτία can denote either individual sins or the sinful condition/principle. SBL's choice is the harder reading; it is the sole minority witness here
+
+**Reference text (SBLGNT):** `ᾧ γὰρ μὴ πάρεστιν ταῦτα, τυφλός ἐστιν μυωπάζων, λήθην λαβὼν τοῦ καθαρισμοῦ τῶν πάλαι αὐτοῦ ἁμαρτημάτων.`
 
 **Morphology (from N1904, `ἁμαρτιῶν` reading):**
 
@@ -477,7 +482,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.10
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `διὸ μᾶλλον, ἀδελφοί, σπουδάσατε βεβαίαν ὑμῶν τὴν κλῆσιν καὶ ἐκλογὴν ποιεῖσθαι· ταῦτα γὰρ ποιοῦντες οὐ μὴ πταίσητέ ποτε·`
 
@@ -513,7 +518,9 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.11
 
-**All sources agree.** *(N1904 capitalizes `Κυρίου`, `Σωτῆρος`, `Ἰησοῦ`, `Χριστοῦ`)*
+**All 5 witnesses agree.**
+
+*N1904 capitalizes `Κυρίου`, `Σωτῆρος`, `Ἰησοῦ`, `Χριστοῦ`*
 
 **Text:** `οὕτως γὰρ πλουσίως ἐπιχορηγηθήσεται ὑμῖν ἡ εἴσοδος εἰς τὴν αἰώνιον βασιλείαν τοῦ κυρίου ἡμῶν καὶ σωτῆρος Ἰησοῦ Χριστοῦ.`
 
@@ -548,20 +555,22 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.12
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: after opening `Διὸ`*
-- SBLGNT, N1904, NA28, WH: `μελλήσω` (future active indicative of μέλλω — "I shall be about to")
-- RP: `οὐκ ἀμελήσω` (future active indicative of ἀμελέω, with negative — "I will not neglect")
-- Nature: lexical and negation replacement (different verb, opposite construction)
-- Significance: substantive in form; the resulting meaning is nearly equivalent ("I will always keep reminding you" vs "I will not neglect to remind you") but the morphology and lexeme differ entirely
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> after opening <code>Διὸ</code></td><td><code>μελλήσω</code></td><td><code>μελλήσω</code></td><td><code>μελλήσω</code></td><td><code>μελλήσω</code></td><td><strong><code>οὐκ ἀμελήσω</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `Διὸ μελλήσω ἀεὶ ὑμᾶς ὑπομιμνῄσκειν περὶ τούτων, καίπερ εἰδότας καὶ ἐστηριγμένους ἐν τῇ παρούσῃ ἀληθείᾳ.`
-- **N1904:** = SBLGNT
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** `Διὸ οὐκ ἀμελήσω ἀεὶ ὑμᾶς ὑπομιμνῄσκειν περὶ τούτων, καίπερ εἰδότας καὶ ἐστηριγμένους ἐν τῇ παρούσῃ ἀληθείᾳ.`
+**How they differ:**
+
+1. *lexical and negation replacement (different verb, opposite construction).* substantive in form; the resulting meaning is nearly equivalent ("I will always keep reminding you" vs "I will not neglect to remind you") but the morphology and lexeme differ entirely
+
+**Reference text (SBLGNT):** `Διὸ μελλήσω ἀεὶ ὑμᾶς ὑπομιμνῄσκειν περὶ τούτων, καίπερ εἰδότας καὶ ἐστηριγμένους ἐν τῇ παρούσῃ ἀληθείᾳ.`
 
 **Morphology (from N1904):**
 
@@ -587,7 +596,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.13
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `δίκαιον δὲ ἡγοῦμαι, ἐφʼ ὅσον εἰμὶ ἐν τούτῳ τῷ σκηνώματι, διεγείρειν ὑμᾶς ἐν ὑπομνήσει,`
 
@@ -618,7 +627,9 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.14
 
-**All sources agree.** *(N1904 capitalizes `Κύριος`, `Ἰησοῦς`, `Χριστὸς`)*
+**All 5 witnesses agree.**
+
+*N1904 capitalizes `Κύριος`, `Ἰησοῦς`, `Χριστὸς`*
 
 **Text:** `εἰδὼς ὅτι ταχινή ἐστιν ἡ ἀπόθεσις τοῦ σκηνώματός μου, καθὼς καὶ ὁ κύριος ἡμῶν Ἰησοῦς Χριστὸς ἐδήλωσέν μοι·`
 
@@ -654,7 +665,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.15
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `σπουδάσω δὲ καὶ ἑκάστοτε ἔχειν ὑμᾶς μετὰ τὴν ἐμὴν ἔξοδον τὴν τούτων μνήμην ποιεῖσθαι.`
 
@@ -684,7 +695,9 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.16
 
-**All sources agree.** *(N1904 capitalizes `Κυρίου`, `Ἰησοῦ`, `Χριστοῦ`)*
+**All 5 witnesses agree.**
+
+*N1904 capitalizes `Κυρίου`, `Ἰησοῦ`, `Χριστοῦ`*
 
 **Text:** `οὐ γὰρ σεσοφισμένοις μύθοις ἐξακολουθήσαντες ἐγνωρίσαμεν ὑμῖν τὴν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ δύναμιν καὶ παρουσίαν, ἀλλʼ ἐπόπται γενηθέντες τῆς ἐκείνου μεγαλειότητος.`
 
@@ -724,21 +737,22 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.17
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: the Transfiguration declaration (after `μεγαλοπρεποῦς δόξης·`)*
-- SBLGNT, NA28, WH: `Ὁ υἱός μου ὁ ἀγαπητός μου οὗτός ἐστιν`
-- N1904: = SBLGNT (capitals)
-- RP (and Tregelles): `οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός`
-- Nature: word order; RP also drops the second μου
-- Significance: RP/Treg reading aligns verbatim with Matt 17:5 LXX-style formula; SBL/WH/NA28 preserve a distinctive Petrine word order (with οὗτός ἐστιν at end). Exegetically relevant for assessing Peter's citation vs. independent testimony
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> the Transfiguration declaration (after <code>μεγαλοπρεποῦς δόξης·</code>)</td><td><code>Ὁ υἱός μου ὁ ἀγαπητός μου οὗτός ἐστιν</code></td><td><strong><code>= SBLGNT (capitals)</code></strong></td><td><code>Ὁ υἱός μου ὁ ἀγαπητός μου οὗτός ἐστιν</code></td><td><code>Ὁ υἱός μου ὁ ἀγαπητός μου οὗτός ἐστιν</code></td><td>—</td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `λαβὼν γὰρ παρὰ θεοῦ πατρὸς τιμὴν καὶ δόξαν φωνῆς ἐνεχθείσης αὐτῷ τοιᾶσδε ὑπὸ τῆς μεγαλοπρεποῦς δόξης· Ὁ υἱός μου ὁ ἀγαπητός μου οὗτός ἐστιν, εἰς ὃν ἐγὼ εὐδόκησα—`
-- **N1904:** `λαβὼν γὰρ παρὰ Θεοῦ Πατρὸς τιμὴν καὶ δόξαν φωνῆς ἐνεχθείσης αὐτῷ τοιᾶσδε ὑπὸ τῆς μεγαλοπρεποῦς δόξης· Ὁ Υἱός μου ὁ ἀγαπητός μου οὗτός ἐστιν, εἰς ὃν ἐγὼ εὐδόκησα,—`
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** `λαβὼν γὰρ παρὰ θεοῦ πατρὸς τιμὴν καὶ δόξαν φωνῆς ἐνεχθείσης αὐτῷ τοιᾶσδε ὑπὸ τῆς μεγαλοπρεποῦς δόξης, Οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, εἰς ὃν ἐγὼ εὐδόκησα.`
+**How they differ:**
+
+1. *word order; RP also drops the second μου.* RP/Treg reading aligns verbatim with Matt 17:5 LXX-style formula; SBL/WH/NA28 preserve a distinctive Petrine word order (with οὗτός ἐστιν at end). Exegetically relevant for assessing Peter's citation vs. independent testimony
+
+**Reference text (SBLGNT):** `λαβὼν γὰρ παρὰ θεοῦ πατρὸς τιμὴν καὶ δόξαν φωνῆς ἐνεχθείσης αὐτῷ τοιᾶσδε ὑπὸ τῆς μεγαλοπρεποῦς δόξης· Ὁ υἱός μου ὁ ἀγαπητός μου οὗτός ἐστιν, εἰς ὃν ἐγὼ εὐδόκησα—`
 
 **Morphology (from N1904):**
 
@@ -781,20 +795,22 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.18
 
-**Variants detected: 1**
+**1 variant across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: final phrase*
-- SBLGNT, N1904, NA28, WH: `ἐν τῷ ἁγίῳ ὄρει` (adjective before noun)
-- RP: `ἐν τῷ ὄρει τῷ ἁγίῳ` (noun first, then repeated article + adjective — second-position attributive)
-- Nature: word order with additional article
-- Significance: both Greek constructions emphasize "holy" but differently; RP uses the "second attributive" pattern that is more liturgically formal
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> final phrase</td><td><code>ἐν τῷ ἁγίῳ ὄρει</code></td><td><code>ἐν τῷ ἁγίῳ ὄρει</code></td><td><code>ἐν τῷ ἁγίῳ ὄρει</code></td><td><code>ἐν τῷ ἁγίῳ ὄρει</code></td><td><strong><code>ἐν τῷ ὄρει τῷ ἁγίῳ</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**Full text per tradition:**
-- **SBLGNT:** `καὶ ταύτην τὴν φωνὴν ἡμεῖς ἠκούσαμεν ἐξ οὐρανοῦ ἐνεχθεῖσαν σὺν αὐτῷ ὄντες ἐν τῷ ἁγίῳ ὄρει.`
-- **N1904:** = SBLGNT
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** `καὶ ταύτην τὴν φωνὴν ἡμεῖς ἠκούσαμεν ἐξ οὐρανοῦ ἐνεχθεῖσαν, σὺν αὐτῷ ὄντες ἐν τῷ ὄρει τῷ ἁγίῳ.`
+**How they differ:**
+
+1. *word order with additional article.* both Greek constructions emphasize "holy" but differently; RP uses the "second attributive" pattern that is more liturgically formal
+
+**Reference text (SBLGNT):** `καὶ ταύτην τὴν φωνὴν ἡμεῖς ἠκούσαμεν ἐξ οὐρανοῦ ἐνεχθεῖσαν σὺν αὐτῷ ὄντες ἐν τῷ ἁγίῳ ὄρει.`
 
 **Morphology (from N1904):**
 
@@ -825,7 +841,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.19
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `καὶ ἔχομεν βεβαιότερον τὸν προφητικὸν λόγον, ᾧ καλῶς ποιεῖτε προσέχοντες ὡς λύχνῳ φαίνοντι ἐν αὐχμηρῷ τόπῳ, ἕως οὗ ἡμέρα διαυγάσῃ καὶ φωσφόρος ἀνατείλῃ ἐν ταῖς καρδίαις ὑμῶν·`
 
@@ -870,7 +886,7 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.20
 
-**All sources agree.**
+**All 5 witnesses agree.**
 
 **Text:** `τοῦτο πρῶτον γινώσκοντες ὅτι πᾶσα προφητεία γραφῆς ἰδίας ἐπιλύσεως οὐ γίνεται,`
 
@@ -898,26 +914,24 @@ All other differences — word presence/absence, word choice, word order, spelli
 
 ### v.21
 
-**Variants detected: 2**
+**2 variants across the five witnesses** — rows where any cell is **bold** differ from the majority reading.
 
-**⟨Variant 1⟩** *Location: after `ἠνέχθη`*
-- SBLGNT, N1904, NA28, WH: `προφητεία ποτέ` (noun before adverb)
-- RP: `ποτὲ προφητεία` (adverb before noun)
-- Nature: word order
-- Significance: no semantic change
+<div class="variant-table-wrap">
+<table>
+<thead><tr><th>Variant</th><th>SBLGNT</th><th>N1904</th><th>NA28</th><th>WH</th><th>RP</th></tr></thead>
+<tbody>
+<tr><td><strong>1.</strong> after <code>ἠνέχθη</code></td><td><code>προφητεία ποτέ</code></td><td><code>προφητεία ποτέ</code></td><td><code>προφητεία ποτέ</code></td><td><code>προφητεία ποτέ</code></td><td><strong><code>ποτὲ προφητεία</code></strong></td></tr>
+<tr><td><strong>2.</strong> qualifier of the subjects who &quot;spoke&quot;</td><td><code>ἐλάλησαν ἀπὸ θεοῦ ἄνθρωποι</code></td><td><strong><code>ἐλάλησαν ἅγιοι Θεοῦ ἄνθρωποι</code></strong></td><td><code>ἐλάλησαν ἀπὸ θεοῦ ἄνθρωποι</code></td><td><code>ἐλάλησαν ἀπὸ θεοῦ ἄνθρωποι</code></td><td><strong><code>ἐλάλησαν ἅγιοι Θεοῦ ἄνθρωποι</code></strong></td></tr>
+</tbody>
+</table>
+</div>
 
-**⟨Variant 2⟩** *Location: qualifier of the subjects who "spoke"*
-- SBLGNT, NA28, WH: `ἐλάλησαν ἀπὸ θεοῦ ἄνθρωποι` ("men spoke *from* God") — preposition ἀπό
-- N1904, RP: `ἐλάλησαν ἅγιοι Θεοῦ ἄνθρωποι` ("*holy* men of God spoke") — adjective ἅγιοι (no preposition ἀπό)
-- Nature: replacement of preposition `ἀπὸ` with adjective `ἅγιοι`
-- Significance: substantive. The SBL/NA28 reading stresses source of speech (*from* God); the N1904/RP reading (also attested in many majuscules) stresses the character of the prophets (*holy* men)
+**How they differ:**
 
-**Full text per tradition:**
-- **SBLGNT:** `οὐ γὰρ θελήματι ἀνθρώπου ἠνέχθη προφητεία ποτέ, ἀλλὰ ὑπὸ πνεύματος ἁγίου φερόμενοι ἐλάλησαν ἀπὸ θεοῦ ἄνθρωποι.`
-- **N1904:** `οὐ γὰρ θελήματι ἀνθρώπου ἠνέχθη προφητεία ποτέ, ἀλλὰ ὑπὸ Πνεύματος Ἁγίου φερόμενοι ἐλάλησαν ἅγιοι Θεοῦ ἄνθρωποι.`
-- **NA28:** = SBLGNT
-- **WH:** = SBLGNT
-- **RP:** `οὐ γὰρ θελήματι ἀνθρώπου ἠνέχθη ποτὲ προφητεία, ἀλλ᾽ ὑπὸ πνεύματος ἁγίου φερόμενοι ἐλάλησαν ἅγιοι Θεοῦ ἄνθρωποι.`
+1. *word order.* no semantic change
+2. *replacement of preposition `ἀπὸ` with adjective `ἅγιοι`.* substantive. The SBL/NA28 reading stresses source of speech (*from* God); the N1904/RP reading (also attested in many majuscules) stresses the character of the prophets (*holy* men)
+
+**Reference text (SBLGNT):** `οὐ γὰρ θελήματι ἀνθρώπου ἠνέχθη προφητεία ποτέ, ἀλλὰ ὑπὸ πνεύματος ἁγίου φερόμενοι ἐλάλησαν ἀπὸ θεοῦ ἄνθρωποι.`
 
 **Morphology (from N1904, with `ἅγιοι` reading):**
 
@@ -967,3 +981,5 @@ Preserved here as a reader aid; all items listed are independent of the variant 
 ---
 
 *End of Section 1 — Multi-Source Original Greek Text Variants, 2 Peter 1*
+
+---
